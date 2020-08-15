@@ -1,0 +1,155 @@
+@UTF8
+@PID:	11312/c-00041730-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 209 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|7;5.|female|New_Onset||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	209, audio
+*CHI:	they got [*] frog .
+%mor:	pro:sub|they v|get&PAST n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%xnar:	$sg=s1
+%com:	Nothing to code for syntactic complexity .
+*CHI:	and the boy just sit [*] there and watch [*] . 1_11146
+%mor:	coord|and det:art|the n|boy adv|just v|sit adv|there coord|and
+	n|watch .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|5|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	then time [*] go [*] sleep . 11146_13267
+%mor:	adv:tem|then v|time v|go n|sleep .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|PUNCT
+%xcoh:	$sg=conj
+*CHI:	then they go [*] sleep . 13267_16764
+%mor:	adv:tem|then pro:sub|they v|go n|sleep .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xnar:	$sg=ie1
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	then the morning come [*] . 16764_19236
+%mor:	adv:tem|then det:art|the n|morning v|come .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj
+*CHI:	and the frog is not there no [*] more . 19236_30511
+%mor:	coord|and det:art|the n|frog aux|be&3S neg|not adv|there qn|no
+	pro:indef|more .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|PUNCT
+%xnar:	$sg=ie5
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	then they check the shoe . 30511_36973
+%mor:	adv:tem|then pro:sub|they v|check det:art|the n|shoe .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	an(d) the dog check [*] the bottle [*] . 36973_40684
+%mor:	coord|and det:art|the n|dog n|check det:art|the n|bottle .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	but it's not in there . 40684_44244
+%mor:	conj|but pro:per|it~cop|be&3S neg|not adv|in adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|JCT 7|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+%com:	Cohesion: but, it, there (in the bottle)
+*CHI:	an(d) they check outside . 44244_47378
+%mor:	coord|and pro:sub|they v|check adv|outside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xnar:	$sg=a3
+%xcoh:	$sg=conj $sg=ref
+*CHI:	an(d) <the> [/] the dog fall [*] . 47378_52911
+%mor:	coord|and det:art|the n|dog n|fall .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	an(d) the person is mad . 52911_56176
+%mor:	coord|and det:art|the n|person cop|be&3S adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%xcoh:	$sg=conj, $sg=subs
+*CHI:	then the &-um dog <licked> [/] lick [*] the person . 56176_61010
+%mor:	adv:tem|then det:art|the n|dog v|lick det:art|the n|person .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	then they check outside [* for a] long time . 61010_66117
+%mor:	adv:tem|then pro:sub|they v|check adv|outside adj|long n|time .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and the dog check [*] in the tree . 66117_73130
+%mor:	coord|and det:art|the n|dog n|check prep|in det:art|the n|tree .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	an(d) the boy check [*] in the hole . 73130_79728
+%mor:	coord|and det:art|the n|boy n|check prep|in det:art|the n|hole .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+%xnar:	$sg=a4
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	then the dog knock [*] the beehive over . 79728_89631
+%mor:	adv:tem|then det:art|the n|dog n|knock det:art|the n|beehive
+	adv|over .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	an(d) they fall . 89631_93116
+%mor:	coord|and pro:sub|they v|fall .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	then the boy check [*] in the &s hole . 93116_99012
+%mor:	adv:tem|then det:art|the n|boy n|check prep|in det:art|the n|hole .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+%xnar:	$sg=a5
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	an(d) <it &fa> [//] the boy fall [*] . 99012_104641
+%mor:	coord|and det:art|the n|boy n|fall .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref_retrace, $sg=lex
+*CHI:	an(d) the dog run [*] . 104641_108445
+%mor:	coord|and det:art|the n|dog n|run .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and <the &sa &s> [//] a bird is comin(g) .
+%mor:	coord|and det:art|a n|bird aux|be&3S part|come-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%xcoh:	$sg=conj
+*CHI:	an(d) they climb over the rock . 108445_122993
+%mor:	coord|and pro:sub|they v|climb adv|over det:art|the n|rock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%xnar:	$sg=a6
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	then he's on a rock and on a &-um antler . 122993_131199
+%mor:	adv:tem|then pro:sub|he~aux|be&3S adv|on det:art|a n|rock coord|and
+	prep|on det:art|a n|antler .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|PRED 7|6|CONJ 8|7|COORD
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	an(d) they pick [* him] up over the woods and [* he] fall [*] in
+	the water . 131199_143841
+%mor:	coord|and pro:sub|they v|pick adv|up prep|over det:art|the
+	n|wood-PL coord|and n|fall prep|in det:art|the n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	ssh [% imitating sound of moving water] .
+%mor:	co|ssh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hi . 143841_160392
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ssh [% imitating sound of moving water] .
+%mor:	co|ssh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<hey they [*] right there> [=! whispering] . 160392_168859
+%mor:	co|hey pro:sub|they adv|right adv|there .
+%gra:	1|2|COM 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	<they [*] right there> [=! whispering] . 168859_172317
+%mor:	pro:sub|they adv|right adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+%xcoh:	$sg=ref
+*CHI:	<hi guys hi> [=! whispering] . 172317_176632
+%mor:	co|hi n|guy-PL co|hi .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*CHI:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	thank you everybody . 176632_183832
+%mor:	v|thank pro:per|you pro:indef|everybody .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|1|PUNCT
+@End

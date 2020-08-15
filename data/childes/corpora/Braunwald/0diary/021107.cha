@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00011079-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;11.07|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	27-JAN-1974
+*CHI:	you guys, you noticed that I'm gonna beat you .
+%mor:	pro:per|you n|guy-PL cm|cm pro:per|you v|notice-PAST pro:rel|that
+	pro:sub|I~aux|be&1S mod:aux|gonna n|beat pro:per|you .
+%gra:	1|2|SUBJ 2|5|LINK 3|2|LP 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|5|COMP 11|10|OBJ 12|5|PUNCT
+%sit:	317
+*CHI:	when Joanna's at school you're only my mother .
+%mor:	conj|when n:prop|Joanna~poss|s prep|at n|school
+	pro:per|you~aux|be&PRES adv|only det:poss|my n|mother .
+%gra:	1|10|LINK 2|10|MOD 3|2|POSS 4|2|JCT 5|4|POBJ 6|10|SUBJ 7|10|AUX
+	8|10|JCT 9|10|MOD 10|0|INCROOT 11|10|PUNCT
+%sit:	318
+*MOT:	no, I'm still Jo's [: Joanna's] mother, but I only take care of you .
+%mor:	co|no cm|cm pro:sub|I~cop|be&1S adv|still n:prop|Joanna~poss|s
+	n|mother cm|cm conj|but pro:sub|I adv|only v|take n|care prep|of
+	pro:per|you .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|MOD 7|6|POSS 8|4|PRED
+	9|8|LP 10|13|LINK 11|13|SUBJ 12|13|JCT 13|4|CJCT 14|13|OBJ 15|14|NJCT
+	16|15|POBJ 17|4|PUNCT
+%sit:	318
+*CHI:	when I'm at schoo(l) you only take care of Jo [: Joanna] .
+%mor:	conj|when pro:sub|I~cop|be&1S prep|at n|school pro:per|you adv|only
+	v|take n|care prep|of n:prop|Joanna .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|SUBJ 7|8|JCT 8|3|XJCT
+	9|8|OBJ 10|9|NJCT 11|10|POBJ 12|3|PUNCT
+%sit:	318
+*MOT:	no, when you're at school I only take care of Sue .
+%mor:	co|no cm|cm conj|when pro:per|you~aux|be&PRES prep|at n|school
+	pro:sub|I adv|only v|take n|care prep|of n:prop|Sue .
+%gra:	1|0|INCROOT 2|1|LP 3|10|LINK 4|10|SUBJ 5|10|AUX 6|10|JCT 7|6|POBJ
+	8|10|SUBJ 9|10|JCT 10|1|CJCT 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|1|PUNCT
+%sit:	318
+*MOT:	you and Jo [: Joanna] are both at school .
+%mor:	pro:per|you coord|and n:prop|Joanna aux|be&PRES qn|both prep|at
+	n|school .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ
+	8|4|PUNCT
+%sit:	318
+@End

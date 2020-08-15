@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/c-00041720-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 169 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|8;11.|female|Chronic_Match||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	169, audio
+*INV:	number one sixty nine . 1_3689
+%mor:	n|number det:num|one det:num|sixty det:num|nine .
+%gra:	1|0|INCROOT 2|3|QUANT 3|4|QUANT 4|1|ENUM 5|1|PUNCT
+*CHI:	this story's about a little boy <his pet> [//] his dog and his pet
+	frog . 6257_10127
+%mor:	pro:dem|this n|story~cop|be&3S prep|about det:art|a adj|little
+	n|boy det:poss|his n|dog coord|and det:poss|his n|pet n|frog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|MOD
+	9|7|OBJ 10|9|CONJ 11|12|MOD 12|13|MOD 13|10|COORD 14|3|PUNCT
+%xnar:	$sg=s1; $sg=s2
+*CHI:	one night when the little boy was sleeping his frog got out of his
+	glass . 13469_16881
+%mor:	det:num|one n|night conj|when det:art|the adj|little n|boy
+	aux|be&PAST&13S part|sleep-PRESP det:poss|his n|frog v|get&PAST
+	adv|out prep|of det:poss|his n|glass .
+%gra:	1|2|QUANT 2|11|SUBJ 3|8|LINK 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|11|CJCT
+	9|10|MOD 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|12|JCT 14|15|MOD 15|13|POBJ
+	16|11|PUNCT
+%xnar:	$sg=ie2; $sg=ie2
+%xcoh:	$sg=lex; $sg=lex; $sg=ref; $sg=lex
+%xsyn:	$sg=ccu; $sg=whc
+*CHI:	the next morning the boy found out that the frog wasn't there . 19446_21990
+%mor:	det:art|the adj|next n|morning det:art|the n|boy v|find&PAST
+	adv|out pro:rel|that det:art|the n|frog cop|be&PAST&13S~neg|not
+	adv|there .
+%gra:	1|3|DET 2|3|MOD 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|6|CJCT 12|11|NEG 13|11|PRED 14|6|PUNCT
+%xnar:	$sg=ie5
+%xcoh:	$sg=lex; $sg=lex; $sg=subs
+%xsyn:	$sg=ccu
+*CHI:	the boy looked everywhere for the frog . 21990_25252
+%mor:	det:art|the n|boy cop|look-PAST adv|everywhere prep|for det:art|the
+	n|frog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	he put his head out the window and called for the frog . 25252_29164
+%mor:	pro:sub|he v|put&ZERO det:poss|his n|head prep|out det:art|the
+	n|window coord|and v|call-PAST prep|for det:art|the n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+%xnar:	$sg=a3
+%xcoh:	$sg=ref; $sg=lex
+*CHI:	his dog fell out the window and made the boy jump out to get him . 32657_35931
+%mor:	det:poss|his n|dog v|fall&PAST prep|out det:art|the n|window
+	coord|and v|make&PAST det:art|the n|boy v|jump adv|out inf|to v|get
+	pro:obj|him .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|DET 10|11|SUBJ 11|8|COMP 12|11|JCT 13|14|INF 14|11|XCOMP 15|14|OBJ
+	16|3|PUNCT
+%xcoh:	$sg=ref; $sg=lex; $sg=lex
+*CHI:	the boy was kinda mad . 35931_37714
+%mor:	det:art|the n|boy cop|be&PAST&13S adv|kinda adj|mad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the boy got outside and called in the woods for his frog . 37714_43173
+%mor:	det:art|the n|boy v|get&PAST adv|outside coord|and v|call-PAST
+	prep|in det:art|the n|wood-PL prep|for det:poss|his n|frog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|12|MOD 12|10|POBJ 13|3|PUNCT
+%xcoh:	$sg=lex; $sg=ref; $sg=lex
+*CHI:	he looked in holes for his frog . 43173_46155
+%mor:	pro:sub|he cop|look-PAST prep|in n|hole-PL prep|for det:poss|his
+	n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+%xnar:	$sg=a4
+%xcoh:	$sg=ref; $sg=lex
+*CHI:	but he didn't find him . 46155_48032
+%mor:	conj|but pro:sub|he mod|do&PAST~neg|not v|find pro:obj|him .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%xcoh:	$sg=conj; $sg=ref
+*CHI:	he looked in the holes in the trees for his frog . 48032_52580
+%mor:	pro:sub|he cop|look-PAST prep|in det:art|the n|hole-PL prep|in
+	det:art|the n|tree-PL prep|for det:poss|his n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|JCT 10|11|MOD 11|9|POBJ 12|2|PUNCT
+%xnar:	$sg=a5
+%xcoh:	$sg=ref; $sg=lex
+*CHI:	but he didn't find the frog . 52580_53763
+%mor:	conj|but pro:sub|he mod|do&PAST~neg|not v|find det:art|the n|frog .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+*CHI:	he found an owl . 53763_56728
+%mor:	pro:sub|he v|find&PAST det:art|a n|owl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	and the <&mou> [//] owl was very mad . 56728_59348
+%mor:	coord|and det:art|the n|owl cop|be&PAST&13S adv|very adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	he stood on a rock and called for the frog . 59348_63597
+%mor:	pro:sub|he v|stand&PAST prep|on det:art|a n|rock coord|and
+	v|call-PAST prep|for det:art|the n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%xnar:	$sg=a6
+%xcoh:	$sg=ref; $sg=lex
+*CHI:	he had to push away a branch . 63597_66235
+%mor:	pro:sub|he v|have&PAST inf|to v|push adv|away det:art|a n|branch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|4|OBJ 8|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	the branch was really <a deer> [//] <the &d> [//] a deer's &-um
+	antlers . 71919_73756
+%mor:	det:art|the n|branch cop|be&PAST&13S adv|real&dadj-LY det:art|a
+	n|deer~poss|s n|antler-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|6|DET 6|8|MOD 7|6|POSS 8|3|PRED
+	9|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the deer took him to the edge of a cliff and threw him off into the
+	river . 76980_79796
+%mor:	det:art|the n|deer v|take&PAST pro:obj|him prep|to det:art|the
+	n|edge prep|of det:art|a n|cliff coord|and v|throw&PAST pro:obj|him
+	adv|off prep|into det:art|the n|river .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|12|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+%xcoh:	$sg=lex; $sg=ref
+*CHI:	<the river was shallow eventually> [//] eventually they found that
+	the river was shallow . 87146_88873
+%mor:	adv|eventual&dadj-LY pro:sub|they v|find&PAST pro:rel|that
+	det:art|the n|river cop|be&PAST&13S adj|shallow .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|PRED
+	9|3|PUNCT
+%xcoh:	$sg=ref
+*CHI:	the boy (.) listened .
+%mor:	det:art|the n|boy part|listen-PASTP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|2|PUNCT
+%xcoh:	$sg=lex
+*CHI:	and he <&thu> [//] heard a frog croaking . 88873_94067
+%mor:	coord|and pro:sub|he v|hear&PAST det:art|a n|frog part|croak-PRESP
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|XMOD 7|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+*CHI:	<he said> [//] he told his dog to be quiet . 94067_98589
+%mor:	pro:sub|he v|tell&PAST det:poss|his n|dog inf|to cop|be n|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|INF 6|4|XCOMP 7|6|PRED 8|2|PUNCT
+%xcoh:	$sg=ref_retrace; $sg=ref; $sg=lex
+*CHI:	he looked over the log . 98589_100463
+%mor:	pro:sub|he cop|look-PAST prep|over det:art|the n|log .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xnar:	$sg=a7
+%xcoh:	$sg=lex
+*CHI:	there was his frog (.) and his little frog babies . 100463_106103
+%mor:	pro:exist|there cop|be&PAST&13S det:poss|his n|frog coord|and
+	det:poss|his adj|little n|frog n|baby-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|CONJ 6|9|MOD 7|9|MOD 8|9|MOD
+	9|5|COORD 10|2|PUNCT
+%xnar:	$sg=o
+%xcoh:	$sg=subs; $sg=ref; $sg=lex; $sg=lex
+*CHI:	the frogs <&deci> [//] said (.) that he could take a frog baby home
+	. 110431_113217
+%mor:	det:art|the n|frog-PL v|say&PAST pro:rel|that pro:sub|he mod|could
+	v|take det:art|a n|frog n|baby n|home .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|11|DET
+	9|10|MOD 10|11|MOD 11|7|JCT 12|3|PUNCT
+%xcoh:	$sg=lex; $sg=ref; $sg=lex; $sg=lex
+*CHI:	and he did . 113217_114135
+%mor:	coord|and pro:sub|he v|do&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref
+*CHI:	the end . 114135_116003
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

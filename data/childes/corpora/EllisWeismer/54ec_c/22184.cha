@@ -1,0 +1,1005 @@
+@UTF8
+@PID:	11312/c-00006349-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , INV John Investigator
+@ID:	eng|Weismer|CHI|4;6.|male|||Target_Child|||
+@ID:	eng|Weismer|INV|||||Investigator|||
+@Media:	22184, audio, missing
+@Date:	09-MAY-2003
+*INV:	was that the truck making that noise ?
+%mor:	cop|be&PAST&13S pro:rel|that det:art|the n|truck part|make-PRESP
+	pro:dem|that n|noise ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|4|XMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*INV:	or my tummy ?
+%mor:	coord|or det:poss|my n|tummy ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	truck .
+%mor:	n|truck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh it was the truck .
+%mor:	co|oh pro:per|it cop|be&PAST&13S det:art|the n|truck .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	well let's see everything we have here .
+%mor:	co|well v|let~pro:obj|us v|see pro:indef|everything pro:sub|we
+	v|have adv|here .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|2|PUNCT
+*INV:	we have an ambulance and a fire truck .
+%mor:	pro:sub|we v|have det:art|a n|ambulance coord|and det:art|a n|fire
+	n|truck .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|8|DET 7|8|MOD 8|5|COORD
+	9|2|PUNCT
+*INV:	and I wonder what this could be .
+%mor:	coord|and pro:sub|I v|wonder pro:int|what pro:dem|this mod|could
+	cop|be .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|3|PUNCT
+*CHI:	house .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	a house .
+%mor:	det:art|a n|house .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	yeah it could be a house .
+%mor:	co|yeah pro:per|it mod|could cop|be det:art|a n|house .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*INV:	but you know sometimes when we play with these games we pretend
+	like it's a hospital .
+%mor:	conj|but pro:per|you v|know adv|sometimes conj|when pro:sub|we
+	v|play prep|with pro:dem|these n|game-PL pro:sub|we v|pretend
+	conj|like pro:per|it~cop|be&3S det:art|a n|hospital .
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|0|ROOT 13|15|LINK 14|15|SUBJ 15|12|CJCT
+	16|17|DET 17|15|PRED 18|12|PUNCT
+*INV:	that way there's [/?] we can use the ambulance and stuff too .
+%mor:	pro:dem|that n|way pro:sub|we mod|can v|use det:art|the n|ambulance
+	coord|and n|stuff adv|too .
+%gra:	1|2|DET 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|9|NJCT 11|5|PUNCT
+*INV:	plus there's lots_of hospital things .
+%mor:	prep|plus pro:exist|there~cop|be&3S qn|lots_of n|hospital
+	n|thing-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|PRED 7|3|PUNCT
+*INV:	(0.7) so_that looks like it's kind of like a computer .
+%mor:	conj|so_that cop|look-3S conj|like pro:per|it~aux|be&3S n|kind
+	prep|of co|like det:art|a n|compute&dv-AGT .
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|PRED 7|6|NJCT 8|10|COM
+	9|10|DET 10|7|POBJ 11|2|PUNCT
+*INV:	(0.4) I wonder who would use that .
+%mor:	pro:sub|I v|wonder pro:rel|who mod|will&COND v|use pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*INV:	(0.4) the ambulance driver ?
+%mor:	det:art|the n|ambulance n|drive&dv-AGT ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	(0.5) we'll why don't we look at the ambulance .
+%mor:	pro:sub|we~mod|will adv:int|why mod|do~neg|not pro:sub|we cop|look
+	prep|at det:art|the n|ambulance .
+%gra:	1|7|SUBJ 2|7|AUX 3|7|LINK 4|6|AUX 5|4|NEG 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*INV:	can you bring it over a little bit ?
+%mor:	mod|can pro:per|you v|bring pro:per|it adv|over det:art|a
+	adj|little n|bit ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|3|JCT
+	9|3|PUNCT
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.5) and this is an easy way to get inside the ambulance .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|a adj|ease&dn-Y adv|way
+	inf|to v|get prep|inside det:art|the n|ambulance .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|JCT 7|8|INF 8|5|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*INV:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	so we have a driver .
+%mor:	co|so pro:sub|we v|have det:art|a n|drive&dv-AGT .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	I wonder what else we need .
+%mor:	pro:sub|I v|wonder pro:int|what post|else pro:sub|we v|need .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|3|PQ 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*CHI:	need this .
+%mor:	v|need pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	need this .
+%mor:	v|need pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	<another drive> [/?] is this gonna be another driver or ?
+%mor:	cop|be&3S pro:dem|this part|go-PRESP~inf|to cop|be qn|another
+	n|drive&dv-AGT coord|or ?
+%gra:	1|3|AUX 2|3|DET 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|QUANT 7|5|PRED 8|7|CONJ
+	9|3|PUNCT
+*CHI:	wait .
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	it goes on top of the fire truck .
+%mor:	pro:per|it v|go-3S prep|on n|top prep|of det:art|the n|fire n|truck
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*CHI:	fire .
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	where should this man go ?
+%mor:	adv:int|where mod|should pro:dem|this n|man v|go ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	(0.4) think he should go in the fire truck ?
+%mor:	v|think pro:sub|he mod|should v|go prep|in det:art|the n|fire
+	n|truck ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.4) there he is .
+%mor:	adv|there pro:sub|he cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I think <there should be> [/?] this should go in the ambulance
+	.
+%mor:	adv|now pro:sub|I v|think pro:dem|this mod|should v|go prep|in
+	det:art|the n|ambulance .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*INV:	(0.5) what else should go in the ambulance ?
+%mor:	pro:int|what post|else mod|should v|go prep|in det:art|the
+	n|ambulance ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.3) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	it goes on top .
+%mor:	pro:per|it v|go-3S prep|on n|top .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	(0.12) I wonder what happened to the door .
+%mor:	pro:sub|I v|wonder pro:int|what v|happen-PAST prep|to det:art|the
+	n|door .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	I wonder how it broke it off .
+%mor:	pro:sub|I v|wonder adv:int|how pro:per|it v|break&PAST pro:per|it
+	adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*INV:	(0.17) so the computers in there .
+%mor:	co|so det:art|the n|compute&dv-AGT-PL adv|in adv|there .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|JCT 5|4|JCT 6|3|PUNCT
+*INV:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*INV:	oop looks like this boys hurt .
+%mor:	co|oop cop|look-3S prep|like pro:dem|this n|boy-PL v|hurt&ZERO .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|6|SUBJ 6|3|POBJ 7|2|PUNCT
+*INV:	I wonder what we should do with him .
+%mor:	pro:sub|I v|wonder pro:int|what pro:sub|we mod|should v|do
+	prep|with pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*INV:	can you tell me what we should do with him ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:int|what pro:sub|we
+	mod|should v|do prep|with pro:obj|him ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|9|POBJ 11|3|PUNCT
+*INV:	(0.7) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.7) let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*INV:	alright now I think this lady she gets the chain saw .
+%mor:	co|alright adv|now pro:sub|I v|think pro:dem|this n|lady
+	pro:sub|she v|get-3S det:art|the n|chain n|saw .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|6|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|4|PUNCT
+*CHI:	chain+saw .
+%mor:	n|+n|chain+n|saw .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	examiner makes chain saw noises
+*INV:	(0.3) <that's how they> [/?] I think that's how she's gonna fix the
+	boy .
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S adv:int|how
+	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|fix det:art|the n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|PRED
+	9|10|INF 10|8|XCOMP 11|12|DET 12|10|OBJ 13|2|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.4) she's not ?
+%mor:	pro:sub|she~aux|be&3S neg|not ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+*INV:	no I think she's gonna fix the boy with the chain saw .
+%mor:	co|no pro:sub|I v|think pro:sub|she~aux|be&3S part|go-PRESP~inf|to
+	v|fix det:art|the n|boy prep|with det:art|the n|chain n|saw .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.2) she's gonna fix him with a shovel .
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|fix pro:obj|him
+	prep|with det:art|a n|shovel .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	<well how &sh> [/?] well how could she fix him ?
+%mor:	co|well adv:int|how mod|could pro:sub|she v|fix pro:obj|him ?
+%gra:	1|5|COM 2|5|LINK 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	(0.17) hm: .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	let's see what else we have in here .
+%mor:	v|let~pro:obj|us v|see pro:int|what post|else pro:sub|we v|have
+	adv|in adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|7|LINK 5|4|PQ 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|7|JCT 10|1|PUNCT
+*INV:	o:h I wonder what those are for .
+%mor:	co|oh pro:sub|I v|wonder pro:int|what pro:dem|those cop|be&PRES
+	prep|for .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|3|PUNCT
+*CHI:	(0.4) scissors .
+%mor:	n|scissors .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh yeah .
+%mor:	co|oh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	they are kind of like scissors .
+%mor:	pro:sub|they cop|be&PRES n|kind prep|of co|like n|scissors .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|COM 6|4|POBJ 7|2|PUNCT
+*INV:	they're really big scissors though .
+%mor:	pro:sub|they~aux|be&PRES adv|real&dadj-LY adj|big n|scissors
+	adv|though .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|MOD 5|0|INCROOT 6|5|JCT 7|5|PUNCT
+*INV:	(0.6) and let's see .
+%mor:	coord|and v|let~pro:obj|us v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*INV:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	<I got what> [/?] what kind of stuff is in your drawers ?
+%mor:	pro:int|what n|kind prep|of n|stuff cop|be&3S prep|in det:poss|your
+	n|drawer-PL ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|PUNCT
+*CHI:	nothing .
+%mor:	pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	nothing's in there .
+%mor:	pro:indef|nothing~aux|be&3S adv|in adv|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	well I wonder what goes in the drawers .
+%mor:	co|well pro:sub|I v|wonder pro:int|what v|go-3S prep|in det:art|the
+	n|drawer-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*INV:	(0.16) hm: okay .
+%mor:	co|hm co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	let's see what else we have here .
+%mor:	v|let~pro:obj|us v|see pro:int|what post|else pro:sub|we v|have
+	adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|7|LINK 5|4|PQ 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|1|PUNCT
+*INV:	(0.4) oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	how about we put the drawer in the hospital .
+%mor:	adv:int|how adv|about pro:sub|we v|put&ZERO det:art|the n|drawer
+	prep|in det:art|the n|hospital .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*INV:	and we have the hospital bed .
+%mor:	coord|and pro:sub|we v|have det:art|the n|hospital n|bed .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*INV:	and let's +...
+%mor:	coord|and v|let~pro:obj|us +...
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	should we put that in the hospital too .
+%mor:	mod|should pro:sub|we v|put&ZERO pro:dem|that prep|in det:art|the
+	n|hospital post|too .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|3|PUNCT
+*INV:	I think that's for a baby .
+%mor:	pro:sub|I v|think pro:rel|that~aux|be&3S prep|for det:art|a n|baby
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|3|INCROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*INV:	see that's the baby's bed .
+%mor:	co|see pro:dem|that~cop|be&3S det:art|the n|baby~poss|s n|bed .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|MOD 6|5|POSS 7|3|PRED 8|3|PUNCT
+*CHI:	(0.4) o:h .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	in the house .
+%mor:	prep|in det:art|the n|house .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*INV:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	they're in the house .
+%mor:	pro:sub|they~aux|be&PRES prep|in det:art|the n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	(0.3) now let's see .
+%mor:	adv|now v|let~pro:obj|us v|see .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*INV:	where's the doctor ?
+%mor:	adv:int|where~cop|be&3S det:art|the n|doctor ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	<doctor here> [*] .
+%mor:	n|doctor adv|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*INV:	oh that's the doctor .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|the n|doctor .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	let's have him +/.
+%mor:	v|let~pro:obj|us v|have pro:obj|him +/.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	another doctor .
+%mor:	qn|another n|doctor .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	oh yeah .
+%mor:	co|oh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	there's another doctor .
+%mor:	pro:exist|there~cop|be&3S qn|another n|doctor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*INV:	you're right .
+%mor:	pro:per|you~aux|be&PRES n|right .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*CHI:	another doctor .
+%mor:	qn|another n|doctor .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	oh and another doctor .
+%mor:	co|oh coord|and qn|another n|doctor .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	let's have them all come in here .
+%mor:	v|let~pro:obj|us v|have pro:obj|them post|all v|come adv|in
+	adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|4|PQ 6|3|COMP 7|6|JCT 8|6|JCT
+	9|1|PUNCT
+*INV:	and let's see .
+%mor:	coord|and v|let~pro:obj|us v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*INV:	I wonder who's sick .
+%mor:	pro:sub|I v|wonder pro:rel|who~aux|be&3S adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|3|INCROOT 5|4|PRED 6|4|PUNCT
+*INV:	oh that's right that boy's sick .
+%mor:	co|oh pro:dem|that~cop|be&3S co|right pro:dem|that n|boy~poss|s
+	adj|sick .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|DET 6|3|PRED 7|6|POSS 8|6|PRED
+	9|3|PUNCT
+*INV:	here we better put him in the hospital .
+%mor:	adv|here pro:sub|we adv|good&CP v|put&ZERO pro:obj|him prep|in
+	det:art|the n|hospital .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now what ?
+%mor:	adv|now pro:int|what ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	(0.8) another doctor .
+%mor:	qn|another n|doctor .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	another doctor .
+%mor:	qn|another n|doctor .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	my_goodness .
+%mor:	co|my_goodness .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.7) there she is .
+%mor:	adv|there pro:sub|she cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh we got_to help fix this boy .
+%mor:	co|oh pro:sub|we mod:aux|got_to v|help v|fix pro:dem|this n|boy .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|OBJ 8|4|PUNCT
+*CHI:	<now what do we fix with him> [*] ?
+%mor:	adv|now pro:int|what mod|do pro:sub|we v|fix prep|with pro:obj|him
+	?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	(0.4) these these .
+%mor:	pro:dem|these pro:dem|these .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	oh those help fix him .
+%mor:	co|oh pro:dem|those v|help v|fix pro:obj|him .
+%gra:	1|3|COM 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*INV:	I think they go on his arms .
+%mor:	pro:sub|I v|think pro:sub|they v|go prep|on det:poss|his n|arm-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+*INV:	they go on his knees .
+%mor:	pro:sub|they v|go prep|on det:poss|his n|knee-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*CHI:	I think so .
+%mor:	pro:sub|I v|think co|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*INV:	maybe on his feet .
+%mor:	adv|maybe prep|on det:poss|his n|foot&PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	hm: this is 0to brush hair .
+%mor:	co|hm pro:dem|this cop|be&3S 0inf|to n|brush n|hair .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|6|MOD 6|3|PRED 7|3|PUNCT
+*INV:	you think he's gonna brush his hair .
+%mor:	pro:per|you v|think pro:sub|he~aux|be&3S part|go-PRESP~inf|to
+	v|brush det:poss|his n|hair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|XCOMP 8|9|MOD
+	9|7|OBJ 10|2|PUNCT
+*INV:	let's see if it works .
+%mor:	v|let~pro:obj|us v|see conj|if pro:per|it v|work-3S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|1|PUNCT
+*INV:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	it brushes his hair .
+%mor:	pro:per|it v|brush-3S det:poss|his n|hair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*INV:	you're right .
+%mor:	pro:per|you~aux|be&PRES n|right .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*INV:	it could also be kind of like a broom .
+%mor:	pro:per|it mod|could adv|also cop|be n|kind prep|of co|like
+	det:art|a n|broom .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PRED 6|5|NJCT 7|9|COM 8|9|DET
+	9|6|POBJ 10|4|PUNCT
+*CHI:	a broom .
+%mor:	det:art|a n|broom .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oh shovel .
+%mor:	co|oh n|shovel .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	shovel .
+%mor:	n|shovel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you got a shovel .
+%mor:	pro:per|you v|get&PAST det:art|a n|shovel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	you see like here's a broom .
+%mor:	pro:per|you v|see conj|like pro:exist|here~cop|be&3S det:art|a
+	n|broom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|7|DET 7|5|PRED 8|2|PUNCT
+*CHI:	broom .
+%mor:	n|broom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	so she can sweep .
+%mor:	co|so pro:sub|she mod|can v|sweep .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	daddy .
+%mor:	n|daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	<the dad should> [/?] should the daddy shovel ?
+%mor:	mod|should det:art|the n|daddy n|shovel ?
+%gra:	1|4|AUX 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	daddy shovel .
+%mor:	n|daddy n|shovel .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and the daddy's gonna shovel .
+%mor:	coord|and det:art|the n|daddy~aux|be&3S part|go-PRESP~inf|to
+	v|shovel .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|5|PUNCT
+*CHI:	squirt gun .
+%mor:	n|squirt n|gun .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%com:	child makes spraying noise
+*INV:	you know I think that's for the fire truck .
+%mor:	pro:per|you v|know pro:sub|I v|think pro:rel|that~aux|be&3S
+	prep|for det:art|the n|fire n|truck .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PUNCT 5|4|OBJ 6|5|INCROOT 7|6|JCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|6|PUNCT
+*INV:	like a really big squirt gun .
+%mor:	prep|like det:art|a adv|real&dadj-LY adj|big n|squirt n|gun .
+%gra:	1|0|INCROOT 2|6|DET 3|6|MOD 4|6|MOD 5|6|MOD 6|1|POBJ 7|1|PUNCT
+*CHI:	big squirt gun .
+%mor:	adj|big n|squirt n|gun .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	how +...
+%mor:	adv:int|how +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.14) here's the fireman .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|+n|fire+n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	he's gonna get the water .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|get det:art|the n|water
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	doesn't have +...
+%mor:	mod|do&3S~neg|not v|have +...
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*CHI:	squirt squirt .
+%mor:	n|squirt n|squirt .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*INV:	(0.7) oh <I bet this> [/?] I bet this saw goes with the fire truck
+	.
+%mor:	co|oh pro:sub|I v|bet&ZERO pro:dem|this n|saw v|go-3S prep|with
+	det:art|the n|fire n|truck .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*CHI:	nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	goes with the &-um dump truck .
+%mor:	v|go-3S prep|with det:art|the n|dump n|truck .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*INV:	with the dump truck .
+%mor:	prep|with det:art|the n|dump n|truck .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	we'll put it over here for the dump truck .
+%mor:	pro:sub|we~mod|will v|put&ZERO pro:per|it adv|over adv|here
+	prep|for det:art|the n|dump n|truck .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*INV:	what else goes for [/?] with the fire truck ?
+%mor:	pro:int|what post|else v|go-3S prep|with det:art|the n|fire n|truck
+	?
+%gra:	1|3|LINK 2|1|PQ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	this does .
+%mor:	pro:dem|this v|do&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	xxx house look xxx .
+%mor:	n|house co|look .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*INV:	(0.8) did you get it ?
+%mor:	v|do&PAST pro:per|you v|get pro:per|it ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	very nice .
+%mor:	adv|very adj|nice .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	going to that truck .
+%mor:	part|go-PRESP prep|to pro:dem|that n|truck .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	oh it goes +/.
+%mor:	co|oh pro:per|it v|go-3S +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	that we need xxx .
+%mor:	pro:rel|that pro:sub|we v|need .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	you need it right there .
+%mor:	pro:per|you v|need pro:per|it adv|right adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*INV:	and I think the cone goes out here .
+%mor:	coord|and pro:sub|I v|think det:art|the n|cone v|go-3S adv|out
+	adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|6|JCT
+	9|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	for dump truck .
+%mor:	prep|for n|dump n|truck .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*INV:	oh that's for the dump truck too .
+%mor:	co|oh pro:dem|that~cop|be&3S prep|for det:art|the n|dump n|truck
+	adv|too .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|JCT
+	9|3|PUNCT
+*INV:	how about this sign ?
+%mor:	adv:int|how prep|about pro:dem|this n|sign ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	dump truck too [>] .
+%mor:	n|dump n|truck adv|too .
+%gra:	1|2|MOD 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	oh [<] the dump truck <gets lots_of stuff> [>] .
+%mor:	co|oh det:art|the n|dump n|truck v|get-3S qn|lots_of n|stuff .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*CHI:	ladder [<] [% child repeats ladder four more times] .
+%mor:	n|ladder .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's also for the fire truck .
+%mor:	pro:dem|that~cop|be&3S adv|also prep|for det:art|the n|fire n|truck
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+*CHI:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(0.5) <for dump truck> [/?] two for 0the dump truck .
+%mor:	det:num|two prep|for 0det|the n|dump n|truck .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|MOD 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*INV:	two for the dump truck .
+%mor:	det:num|two prep|for det:art|the n|dump n|truck .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*INV:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I'll put it over here for the dump truck .
+%mor:	pro:sub|I~mod|will v|put&ZERO pro:per|it adv|over adv|here prep|for
+	det:art|the n|dump n|truck .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*INV:	(0.4) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	firefighter has_to help this too .
+%mor:	n|+n|fire+n|fighter mod:aux|has_to v|help det:dem|this adv|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+*INV:	oh yeah .
+%mor:	co|oh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	you're right .
+%mor:	pro:per|you~aux|be&PRES n|right .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*INV:	hey how about we give this firefighter that one ?
+%mor:	co|hey adv:int|how adv|about pro:sub|we v|give pro:dem|this
+	n|+n|fire+n|fighter pro:dem|that pro:indef|one ?
+%gra:	1|5|COM 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	we'll put it in here .
+%mor:	pro:sub|we~mod|will v|put&ZERO pro:per|it prep|in adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good thinking .
+%mor:	adj|good n:gerund|think-PRESP .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	and this looks like it's a suitcase or some [/?] something .
+%mor:	coord|and pro:dem|this cop|look-3S conj|like pro:per|it~cop|be&3S
+	det:art|a n|suitcase coord|or pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|PRED
+	9|8|CONJ 10|9|COORD 11|3|PUNCT
+*CHI:	suitcase 0go [* 0es] in here .
+%mor:	n|suitcase 0v|go adv|in adv|here .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|JCT 4|2|JCT 5|1|PUNCT
+*INV:	oh it goes in the ambulance .
+%mor:	co|oh pro:per|it v|go-3S prep|in det:art|the n|ambulance .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	(0.2) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I think this lady I think she's +/.
+%mor:	pro:sub|I v|think pro:dem|this n|lady pro:sub|I v|think
+	pro:sub|she~cop|be&3S +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|SUBJ 6|4|CMOD 7|8|SUBJ 8|6|COMP
+	9|2|PUNCT
+*CHI:	doctor too .
+%mor:	n|doctor adv|too .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*INV:	she's kind of <like a doctor> [/?] like an ambulance driver doctor
+	.
+%mor:	pro:sub|she~aux|be&3S n|kind prep|of co|like det:art|a n|ambulance
+	n|drive&dv-AGT n|doctor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|9|COM 6|9|DET 7|8|MOD 8|9|MOD
+	9|4|POBJ 10|2|PUNCT
+*CHI:	by dump truck .
+%mor:	prep|by n|dump n|truck .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*INV:	on this goes with the +...
+%mor:	prep|on pro:dem|this v|go-3S prep|with det:art|the +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	firefighter [% child repeats three times] .
+%mor:	n|+n|fire+n|fighter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(0.3) boy the firefighters have lots_of stuff .
+%mor:	co|boy det:art|the n|+n|fire+n|fighter-PL v|have qn|lots_of n|stuff
+	.
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*CHI:	how do you get this down ?
+%mor:	adv:int|how mod|do pro:per|you v|get pro:dem|this adv|down ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*INV:	I think you have_to push it open .
+%mor:	pro:sub|I v|think pro:per|you mod:aux|have_to v|push pro:per|it
+	adj|open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*CHI:	I want it down .
+%mor:	pro:sub|I v|want pro:per|it adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*INV:	oh you want it down .
+%mor:	co|oh pro:per|you v|want pro:per|it adv|down .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	it's kind of hard to get down isn't it ?
+%mor:	pro:per|it~aux|be&3S n|kind prep|of adj|hard inf|to v|get adv|down
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|11|AUX 10|9|NEG 11|7|OBJ 12|2|PUNCT
+*INV:	oop not to hard for you .
+%mor:	co|oop neg|not prep|to adj|hard prep|for pro:per|you .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*CHI:	strong muscles .
+%mor:	adj|strong n|muscle-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	you got strong muscles .
+%mor:	pro:per|you v|get&PAST adj|strong n|muscle-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*INV:	how about we have the teddy+bear drive the ambulance ?
+%mor:	adv:int|how adv|about pro:sub|we v|have det:art|the
+	n|+n|teddy+n|bear n|drive det:art|the n|ambulance ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he's too shall .
+%mor:	pro:sub|he~cop|be&3S adv|too mod|shall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*CHI:	he can't reach it .
+%mor:	pro:sub|he mod|can~neg|not v|reach pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	he can't even reach it .
+%mor:	pro:sub|he mod|can~neg|not adv|even v|reach pro:per|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	oh man .
+%mor:	co|oh n|man .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	maybe this doctor .
+%mor:	adv|maybe pro:dem|this n|doctor .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	this doctor drives .
+%mor:	pro:dem|this n|doctor n|drive-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	she^'d probably be a good driver .
+%mor:	pro:sub|she~mod|genmod adv|probable&dadj-LY cop|be det:art|a
+	adj|good n|drive&dv-AGT .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*CHI:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	only have_to get the teddy+bear out .
+%mor:	adv|only mod:aux|have_to v|get det:art|the n|+n|teddy+n|bear
+	adv|out .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	teddy bears in the way .
+%mor:	n|teddy n|bear-PL prep|in det:art|the n|way .
+%gra:	1|2|MOD 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	oops .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oopsie daisy .
+%mor:	co|oopsie n|daisy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	I spilled everything out .
+%mor:	pro:sub|I v|spill-PAST pro:indef|everything adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	what does this do ?
+%mor:	pro:int|what mod|do&3S pro:dem|this v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	look_it .
+%mor:	co|look_it .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	this this .
+%mor:	pro:dem|this pro:dem|this .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	oh I didn't even see those there .
+%mor:	co|oh pro:sub|I mod|do&PAST~neg|not adv|even v|see pro:dem|those
+	adv|there .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+*INV:	that's cool .
+%mor:	pro:dem|that~cop|be&3S adj|cool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	o:h look_it .
+%mor:	co|oh co|look_it .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	(0.6) this person +...
+%mor:	pro:dem|this n|person +...
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	o:h it does come out .
+%mor:	co|oh pro:per|it mod|do&3S v|come adv|out .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	oh let me see what that is .
+%mor:	co|oh v|let&ZERO pro:obj|me v|see pro:int|what pro:dem|that
+	cop|be&3S .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|7|LINK 6|7|SUBJ 7|4|COMP 8|2|PUNCT
+*CHI:	(0.3) o:h another one .
+%mor:	co|oh qn|another pro:indef|one .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*CHI:	another one [% repeats another one] .
+%mor:	qn|another pro:indef|one .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	I wonder what the briefcases are for .
+%mor:	pro:sub|I v|wonder pro:int|what det:art|the n|briefcase-PL
+	cop|be&PRES prep|for .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+*CHI:	these toys .
+%mor:	pro:dem|these n|toy-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	o:h they open .
+%mor:	co|oh pro:sub|they v|open .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	I think they help people when they're sick .
+%mor:	pro:sub|I v|think pro:sub|they v|help n|person&PL conj|when
+	pro:sub|they~aux|be&PRES adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|2|PUNCT
+*CHI:	we're gonna put them back .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|put&ZERO pro:obj|them
+	adv|back .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*INV:	you're gonna put that one back in here .
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|put&ZERO
+	pro:dem|that pro:indef|one adv|back prep|in adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|JCT 10|9|POBJ 11|3|PUNCT
+*CHI:	how ?
+%mor:	adv:int|how ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(0.2) that one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	(0.6) telephone .
+%mor:	n|telephone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	telephone in a car ?
+%mor:	n|telephone prep|in det:art|a n|car ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ambulance .
+%mor:	n|ambulance .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh why's there a telephone in the ambulance ?
+%mor:	co|oh adv:int|why~aux|be&3S adv|there det:art|a n|telephone prep|in
+	det:art|the n|ambulance ?
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|6|JCT 5|6|DET 6|0|INCROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	and it went over there .
+%mor:	coord|and pro:per|it v|go&PAST adv|over adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*INV:	I wonder why there's a telephone in the ambulance .
+%mor:	pro:sub|I v|wonder adv:int|why pro:exist|there~cop|be&3S det:art|a
+	n|telephone prep|in det:art|the n|ambulance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|7|DET 7|5|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	so they can call people .
+%mor:	co|so pro:sub|they mod|can v|call n|person&PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	so they can call the firemen .
+%mor:	co|so pro:sub|they mod|can v|call det:art|the n|+n|fire+n|man&PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	hm: .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	see the <fire fighters> [>] they have <lots_of> [<] +/.
+%mor:	v|see det:art|the n|fire n|fight&dv-AGT-PL pro:sub|they v|have
+	qn|lots_of +/.
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|6|SUBJ 6|4|CMOD 7|6|OBJ 8|1|PUNCT
+%com:	ERROR: <> brackets convention misused in a previous speaker line
+*CHI:	<o:h> [>] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<what's this> [>] for ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this prep|for ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|2|PUNCT
+*INV:	that's &-um +...
+%mor:	pro:dem|that~cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	a computer .
+%mor:	det:art|a n|compute&dv-AGT .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	it's kind of like [/?] looks like a computer .
+%mor:	pro:per|it~aux|be&3S n|kind prep|of cop|look-3S prep|like det:art|a
+	n|compute&dv-AGT .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	that goes right on the computer .
+%mor:	pro:rel|that v|go-3S adv|right prep|on det:art|the n|compute&dv-AGT
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	o:h .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	know what ?
+%mor:	v|know pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	<I^m gonna have> [>] +...
+%mor:	n:prop|Im part|go-PRESP~inf|to v|have +...
+%gra:	1|0|INCROOT 2|1|XJCT 3|4|INF 4|2|XCOMP 5|1|PUNCT
+*CHI:	<dump truck> [<] dump truck .
+%mor:	n|dump n|truck n|dump n|truck .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+%com:	ERROR: <> brackets convention misused in a previous speaker line
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that goes with the dump truck too .
+%mor:	pro:rel|that v|go-3S prep|with det:art|the n|dump n|truck adv|too .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|JCT 8|2|PUNCT
+*CHI:	(0.5) just put 0it in ambulance too .
+%mor:	adv|just part|put&PASTP 0pro|it prep|in n|ambulance post|too .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|5|PQ 7|2|PUNCT
+*CHI:	(0.5) where is that red case ?
+%mor:	adv:int|where cop|be&3S pro:dem|that adj|red n|case ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	know what ?
+%mor:	v|know pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	we're gonna have your mom come in here now for a little bit .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|have det:poss|your
+	n|mom v|come adv|in adv|here adv|now prep|for det:art|a adj|little
+	n|bit .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|MOD 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|8|JCT 11|8|JCT 12|8|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

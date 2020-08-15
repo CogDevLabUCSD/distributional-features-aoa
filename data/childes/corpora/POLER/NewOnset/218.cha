@@ -1,0 +1,212 @@
+@UTF8
+@PID:	11312/c-00041735-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 218 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|4;2.|male|New_Onset||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	218, audio
+*INV:	number two seventeen . 1_9325
+%mor:	n|number det:num|two det:num|seventeen .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|ENUM 4|1|PUNCT
+%com:	There are no narrative elements . The only time he mentions the frog
+	is at the end when he says "And the frog was perfect ." .
+*CHI:	two seventeen .
+%mor:	det:num|two det:num|seventeen .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	eight nineteen .
+%mor:	det:num|eight det:num|nineteen .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	what do you see ?
+%mor:	pro:int|what mod|do pro:per|you v|see ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	two seventeen .
+%mor:	det:num|two det:num|seventeen .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	what do you see ?
+%mor:	pro:int|what mod|do pro:per|you v|see ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	&-um a boy .
+%mor:	det:art|a n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	okay, tell me the story . 9325_20201
+%mor:	co|okay cm|cm v|tell pro:obj|me det:art|the n|story .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	<&th> [//] &-uh I see a boy . 20201_25929
+%mor:	pro:sub|I v|see det:art|a n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the boy was gettin(g) ready [* to] go to bed . 25929_32986
+%mor:	det:art|the n|boy aux|be&PAST&13S part|get-PRESP adj|ready v|go
+	prep|to n|bed .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+%xcoh:	$sg=lex
+*CHI:	and they went to bed . 32986_38516
+%mor:	coord|and pro:sub|they v|go&PAST prep|to n|bed .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref_error
+%com:	Using "they" may be incorrect since only the boy has been
+	introduced .
+*CHI:	<and he was> [//] and the dog getting ready to go [* to] sleep . 38516_48189
+%mor:	coord|and det:art|the n|dog part|get-PRESP adj|ready inf|to v|go
+	n|sleep .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|XMOD 5|4|PRED 6|7|INF 7|5|XCOMP
+	8|7|OBJ 9|1|PUNCT
+%xcoh:	$sg=conj_retrace, $sg=ref_retrace, $sg=conj, $sg=ref
+%com:	In this case, "dog" refers back to "they" .
+*INV:	keep going .
+%mor:	v|keep n:gerund|go-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	and they were getting ready [* to] go back to sleep . 48189_55331
+%mor:	coord|and pro:sub|they aux|be&PAST part|get-PRESP adj|ready v|go
+	adv|back prep|to n|sleep .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|XCOMP 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	<and &n> [//] and he was lookin(g) outside . 55331_60661
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|look-PRESP adv|outside .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xcoh:	$sg=conj_retrace, $sg=conj, $sg=ref
+*CHI:	<he looked in> [/] <he looked in &ray> [//] <the &d> [//] he looked
+	out there . 60661_72715
+%mor:	pro:sub|he cop|look-PAST prep|out adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%xcoh:	$sg=ref_retrace, $sg=ref_retrace, $sg=ref
+*CHI:	and he said oh no he fell . 72715_76931
+%mor:	coord|and pro:sub|he v|say&PAST co|oh co|no pro:sub|he v|fall&PAST
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|COM 5|7|COM 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+%xsyn:	$sg=ccu, $sg=vpc
+%xcoh:	$sg=conj, $sg=ref, $sg=ref
+*CHI:	and he jumped down . 76931_81505
+%mor:	coord|and pro:sub|he v|jump-PAST adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he want him [* to] stay in here . 81505_85692
+%mor:	coord|and pro:sub|he v|want pro:obj|him n|stay prep|in adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+%xsyn:	$sg=ccu, $sg=vpc
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he holler . 85692_91269
+%mor:	coord|and pro:sub|he v|holler .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	Past tense marker is optional in this dialect .
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and the trees was [*] perfect . 91269_97481
+%mor:	coord|and det:art|the n|tree-PL cop|be&PAST&13S adj|perfect .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%xcoh:	$sg=conj
+*CHI:	and he got [* a] bloody nose . 97481_103285
+%mor:	coord|and pro:sub|he v|get&PAST adj|blood&dn-Y n|nose .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	&-uh the dog wasn't ready holler the tree . 103285_109913
+%mor:	det:art|the n|dog cop|be&PAST&13S~neg|not adj|ready v|holler
+	det:art|the n|tree .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PRED 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+%com:	Not sure of above transcription .
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	<and he would> [//] and the <dog> [/] dog xxx did lay him . 109913_118248
+%mor:	coord|and det:art|the n|dog v|do&PAST v|lay pro:obj|him .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%xcoh:	$sg=conj_retrace, $sg=ref_retrace, $sg=conj, $sg=lex_retrace,
+	$sg=lex, $sg=lex
+*CHI:	the boy was xxx holler there too . 118248_122826
+%mor:	det:art|the n|boy aux|be&PAST&13S v|holler adv|there post|too .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|PQ 7|4|PUNCT
+%xcoh:	$sg=lex
+*CHI:	and he came down . 122826_128135
+%mor:	coord|and pro:sub|he v|come&PAST adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and the dog fell . 128135_131808
+%mor:	coord|and det:art|the n|dog v|fall&PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and there was a rock .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a n|rock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%xcoh:	$sg=conj
+*CHI:	and the rock hit him [* mistook picture] . 131808_138870
+%mor:	coord|and det:art|the n|rock v|hit&ZERO pro:obj|him .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=ref
+*CHI:	and there was another rocks [* rock] hit the dog [*] . 138870_144217
+%mor:	coord|and adv|there cop|be&PAST&13S qn|another n|rock-PL v|hit&ZERO
+	det:art|the n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|LINK 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%xsyn:	$sg=ccu, $sg=rel
+%com:	Omission of "that" in rel clause is optional in this dialect .
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	and there was a horse [* deer] . 144217_149811
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a n|horse .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%xcoh:	$sg=conj
+*CHI:	a horse hid [* behind] the rock . 149811_153318
+%mor:	det:art|a n|horse v|hide&PAST det:art|the n|rock .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	<and hid> [//] <and there was racin(g)> [//] <and &th> [/] <and the
+	&ho> [//] and he was riding [* running from?] [* missing article]
+	bee . 153318_163780
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|ride-PRESP n|bee .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%xcoh:	$sg=conj_retrace, $sg=conj_retrace, $sg=conj_retrace,
+	$sg=conj_retrace, $sg=conj, $sg=ref
+*CHI:	and he fell .
+%mor:	coord|and pro:sub|he v|fall&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he want to step on him so he can win [* wrong interpretation?] .
+	163780_173111
+%mor:	coord|and pro:sub|he v|want inf|to v|step prep|on pro:obj|him
+	conj|so pro:sub|he mod|can v|win .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|3|CJCT 12|3|PUNCT
+%xsyn:	$sg=ccu, $sg=advc
+%xcoh:	$sg=conj, $sg=ref, $sg=ref
+*CHI:	and the tree was perfect . 173111_176924
+%mor:	coord|and det:art|the n|tree cop|be&PAST&13S adj|perfect .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and he fell . 176924_181256
+%mor:	coord|and pro:sub|he v|fall&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he say helicopter [* off-topic] . 181256_188148
+%mor:	coord|and pro:sub|he v|say n|helicopter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he put his thumb in his mouth [* mistook picture, shhh] . 188148_195221
+%mor:	coord|and pro:sub|he v|put&ZERO det:poss|his n|thumb prep|in
+	det:poss|his n|mouth .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he heard his dog [* frog] . 195221_199815
+%mor:	coord|and pro:sub|he v|hear&PAST det:poss|his n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	I'm pretty sure he said "dog" not "frog" .
+%xcoh:	$sg=conj, $sg=ref, $sg=lex_error
+*CHI:	and he said it's okay . 199815_204928
+%mor:	coord|and pro:sub|he v|say&PAST pro:per|it~cop|be&3S adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and the frog was perfect . 204928_209325
+%mor:	coord|and det:art|the n|frog cop|be&PAST&13S adj|perfect .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%xcoh:	$sg=conj
+*CHI:	it was [* a] perfect day . 209325_213066
+%mor:	pro:per|it cop|be&PAST&13S adj|perfect n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	and he said hi to the monkeys [* off-topic] . 213066_218609
+%mor:	coord|and pro:sub|he v|say&PAST co|hi prep|to det:art|the
+	n|monkey-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+@End

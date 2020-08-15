@@ -1,0 +1,220 @@
+@UTF8
+@PID:	11312/c-00041722-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 173 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|7;6.|female|Chronic_Match||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	173, audio
+*INV:	number one seventy three . 1_4338
+%mor:	n|number det:num|one det:num|seventy det:num|three .
+%gra:	1|0|INCROOT 2|3|QUANT 3|4|QUANT 4|1|ENUM 5|1|PUNCT
+*CHI:	frog, where are you ? 4338_12656
+%mor:	n|frog cm|cm pro:rel|where aux|be&PRES pro:per|you ?
+%gra:	1|0|INCROOT 2|1|LP 3|5|LINK 4|5|AUX 5|1|CJCT 6|1|PUNCT
+*CHI:	one day <with> [//] there was a boy and his dog and a frog . 12656_20113
+%mor:	det:num|one n|day adv|there cop|be&PAST&13S det:art|a n|boy
+	coord|and det:poss|his n|dog coord|and det:art|a n|frog .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|9|CONJ 11|12|DET 12|10|COORD 13|4|PUNCT
+%xnar:	$sg=s1
+*CHI:	one day he fell asleep on his bed with his dog . 20113_28428
+%mor:	det:num|one n|day pro:sub|he v|fall&PAST adv|asleep prep|on
+	det:poss|his n|bed prep|with det:poss|his n|dog .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|4|JCT 10|11|MOD 11|9|POBJ 12|4|PUNCT
+%xnar:	$sg=ie1
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	and the frog got out . 28428_31134
+%mor:	coord|and det:art|the n|frog v|get&PAST adv|out .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xnar:	$sg=ie2
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	when the boy woke up, he noticed the jar was empty . 37302_39582
+%mor:	conj|when det:art|the n|boy v|wake&PAST adv|up cm|cm pro:sub|he
+	v|notice-PAST det:art|the n|jar cop|be&PAST&13S adj|empty .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|4|LP 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|11|SUBJ 11|8|COMP 12|11|PRED 13|8|PUNCT
+%xnar:	$sg=ie3, $sg=ie4, $sg=ie5
+%xsyn:	$sg=ccu, $sg=whc
+%xcoh:	$sg=lex
+*CHI:	and the frog was gone .
+%mor:	coord|and det:art|the n|frog aux|be&PAST&13S part|go&PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	the boy looked <&i> [/] in a boot . 39582_47749
+%mor:	det:art|the n|boy cop|look-PAST prep|in det:art|a n|boot .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xnar:	$sg=a1
+%xcoh:	$sg=lex
+*CHI:	inside the jar the dog looked . 47749_51528
+%mor:	prep|inside det:art|the n|jar det:art|the n|dog cop|look-PAST .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|5|DET 5|6|SUBJ 6|3|CMOD 7|1|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	the dog looked out the window with the jar on his head . 51528_56797
+%mor:	det:art|the n|dog cop|look-PAST prep|out det:art|the n|window
+	prep|with det:art|the n|jar prep|on det:poss|his n|head .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|3|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	and the boy called the frog .
+%mor:	coord|and det:art|the n|boy part|call-PASTP det:art|the n|frog .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|XMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	but he wasn't there . 56797_61172
+%mor:	conj|but pro:sub|he cop|be&PAST&13S~neg|not adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%xnar:	$sg=a2
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and then the dog fell out of the window .
+%mor:	coord|and adv:tem|then det:art|the n|dog v|fall&PAST adv|out
+	prep|of det:art|the n|window .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	and the glass cracked . 66962_71201
+%mor:	coord|and det:art|the n|glass v|crack-PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and he was upset .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|upset .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	so the boy came down and searched and searched . 71201_74466
+%mor:	co|so det:art|the n|boy v|come&PAST adv|down coord|and
+	v|search-PAST coord|and v|search-PAST .
+%gra:	1|3|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|CONJ
+	9|8|COORD 10|4|PUNCT
+%xnar:	$sg=a3
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	they both called the frog .
+%mor:	pro:sub|they post|both v|call-PAST det:art|the n|frog .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	but he never came . 74466_82400
+%mor:	conj|but pro:sub|he adv|never v|come&PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	<they> [/] they yelled and yelled, but nothing . 82400_89862
+%mor:	pro:sub|they v|yell-PAST coord|and part|yell-PASTP cm|cm conj|but
+	pro:indef|nothing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|LP 6|4|CONJ 7|6|COORD
+	8|2|PUNCT
+%xcoh:	$sg=ref_retrace, $sg=ref
+*CHI:	the boy looked inside a hole, but nothing there but a mole [*] . 89862_96797
+%mor:	det:art|the n|boy cop|look-PAST prep|inside det:art|a n|hole cm|cm
+	conj|but pro:indef|nothing adv|there conj|but det:art|a n|mole .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|LP 8|3|CONJ
+	9|8|COORD 10|9|NJCT 11|9|CONJ 12|13|DET 13|11|COORD 14|3|PUNCT
+%xnar:	$sg=a4
+%xcoh:	$sg=lex, $sg=ellipsis
+*CHI:	so then the dog <&l> [//] watched the bees .
+%mor:	adv|so adv:tem|then det:art|the n|dog v|watch-PAST det:art|the
+	n|bee-PL .
+%gra:	1|2|JCT 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	but the bees got upset at him .
+%mor:	conj|but det:art|the n|bee-PL v|get&PAST adj|upset prep|at
+	pro:obj|him .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|JCT 7|6|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=ref
+*CHI:	and the hive fell down . 96797_110652
+%mor:	coord|and det:art|the n|hive v|fall&PAST adv|down .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	while the boy was looking in a tree hole he fell [*] out by an owl .
+	110652_115746
+%mor:	conj|while det:art|the n|boy aux|be&PAST&13S part|look-PRESP
+	prep|in det:art|a n|tree n|hole pro:sub|he v|fall&PAST adv|out
+	prep|by det:art|a n|owl .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|11|CJCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|11|PUNCT
+%xnar:	$sg=a5
+%xsyn:	$sg=ccu, $sg=whc
+%xcoh:	$sg=lex
+*CHI:	and the dog was being chased by millions of bees . 115746_124724
+%mor:	coord|and det:art|the n|dog aux|be&PAST&13S aux|be-PRESP
+	part|chase-PASTP prep|by det:num|million-PL prep|of n|bee-PL .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|6|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	he said shoo .
+%mor:	pro:sub|he v|say&PAST v|shoo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	<but he &l> [//] so the owl left .
+%mor:	co|so det:art|the n|owl v|leave&PAST .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=ref_retrace, $sg=lex, $sg=conj
+*CHI:	but he climbed on the tree branch . 135655_138563
+%mor:	conj|but pro:sub|he v|climb-PAST prep|on det:art|the n|tree
+	n|branch .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	and the boy called from the rock . 138563_141581
+%mor:	coord|and det:art|the n|boy part|call-PASTP prep|from det:art|the
+	n|rock .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xnar:	$sg=a6
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and then a deer picked him up . 141581_148519
+%mor:	coord|and adv:tem|then det:art|a n|deer v|pick-PAST pro:obj|him
+	adv|up .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=ref
+*CHI:	<and> [/] and then the deer got upset and went near a cliff . 148519_156976
+%mor:	coord|and adv:tem|then det:art|the n|deer v|get&PAST adj|upset
+	coord|and v|go&PAST prep|near det:art|a n|cliff .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	he stopped .
+%mor:	pro:sub|he v|stop-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	and the boy and the dog fell in the water head first . 167587_168565
+%mor:	coord|and det:art|the n|boy coord|and det:art|the n|dog v|fall&PAST
+	prep|in det:art|the n|water n|head adv|first .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|LINK 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|JCT 13|7|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	and he sat in the water hearing something . 168565_176717
+%mor:	coord|and pro:sub|he v|sit&PAST prep|in det:art|the n|water
+	part|hear-PRESP pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|7|OBJ
+	9|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	he said shh to his dog . 176717_181255
+%mor:	pro:sub|he v|say&PAST co|shh prep|to det:poss|his n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	and then he looked over the <tree> [//] log . 181255_184996
+%mor:	coord|and adv:tem|then pro:sub|he cop|look-PAST prep|over
+	det:art|the n|log .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xnar:	$sg=a7
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he saw <&w> [//] two frogs and their little <froggies> [//]
+	well tadpoles [*], whatever . 191090_195860
+%mor:	coord|and pro:sub|he v|see&PAST det:num|two n|frog-PL coord|and
+	det:poss|their adj|little n|well n|tadpole-PL cm|cm pro:int|whatever
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|CONJ 7|10|MOD 8|10|MOD
+	9|10|MOD 10|6|COORD 11|10|LP 12|10|ENUM 13|3|PUNCT
+%xnar:	$sg=o1
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	and then he took one of the babies and waved goodbye .
+%mor:	coord|and adv:tem|then pro:sub|he v|take&PAST pro:indef|one prep|of
+	det:art|the n|baby-PL coord|and part|wave-PASTP co|goodbye .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|CONJ 10|9|COORD 11|10|OBJ 12|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	and they went home . 195860_207696
+%mor:	coord|and pro:sub|they v|go&PAST adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	the end . 207696_209298
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

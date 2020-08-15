@@ -1,0 +1,163 @@
+@UTF8
+@PID:	11312/c-00041737-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 302 Child, CLI Clinician
+@ID:	eng|change_me_later|CHI|12;9.|male|Chronic||Child|||
+@ID:	eng|change_me_later|CLI|||||Clinician|||
+@Media:	302, audio
+*CHI:	the boy and the dog are looking at the frog . 1_3568
+%mor:	det:art|the n|boy coord|and det:art|the n|dog aux|be&PRES
+	part|look-PRESP prep|at det:art|the n|frog .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%xnar:	$sg=s1
+*CHI:	the frog is getting out of the jar . 3568_7143
+%mor:	det:art|the n|frog aux|be&3S n:gerund|get-PRESP adv|out prep|of
+	det:art|the n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+%xnar:	$sg=ie2
+%xcoh:	$sg=lex
+*CHI:	the frog escapes through the window . 7143_11854
+%mor:	det:art|the n|frog v|escape-3S prep|through det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the boy and the dog look for the frog . 11854_15972
+%mor:	det:art|the n|boy coord|and det:art|the n|dog co|look prep|for
+	det:art|the n|frog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|5|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%xnar:	$sg=a1
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy and the dog call for the frog . 15972_21460
+%mor:	det:art|the n|boy coord|and det:art|the n|dog n|call prep|for
+	det:art|the n|frog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|6|DET 5|6|MOD 6|3|COORD 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy and the dog keep looking for the frog . 21460_26760
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|keep
+	part|look-PRESP prep|for det:art|the n|frog .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%xnar:	$sg=g2
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy (.) looks at the dog .
+%mor:	det:art|the n|boy cop|look-3S prep|at det:art|the n|dog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the dog breaks the jar . 26760_35850
+%mor:	det:art|the n|dog v|break-3S det:art|the n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the boy and the dog keep calling for the frog . 35850_41748
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|keep
+	part|call-PRESP prep|for det:art|the n|frog .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy and the dog keep looking for the frog . 41748_47204
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|keep
+	part|look-PRESP prep|for det:art|the n|frog .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy's nose gets bit by a gopher . 47204_51218
+%mor:	det:art|the n|boy~poss|s n|nose v|get-3S v|bite&PAST prep|by
+	det:art|a n|gopher .
+%gra:	1|2|DET 2|6|LINK 3|2|POSS 4|5|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the dog knocks down (.) a beehive . 51218_61333
+%mor:	det:art|the n|dog v|knock-3S prep|down det:art|a n|beehive .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the boy climbs up a tree . 61333_63762
+%mor:	det:art|the n|boy v|climb-3S prep|up det:art|a n|tree .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	<the &d> [//] the boy gets chased by an owl . 63762_74605
+%mor:	det:art|the n|boy v|get-3S v|chase-PAST prep|by det:art|a n|owl .
+%gra:	1|2|DET 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the dog gets chased by bees . 74605_76109
+%mor:	det:art|the n|dog v|get-3S v|chase-PAST prep|by n|bee-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the owl chases the boy .
+%mor:	det:art|the n|owl v|chase-3S det:art|the n|boy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the boy holds on (.) to the deer's antlers . 76109_87547
+%mor:	det:art|the n|boy v|hold-3S adv|on prep|to det:art|the
+	n|deer~poss|s n|antler-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|9|MOD 8|7|POSS
+	9|5|POBJ 10|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the deer gets up .
+%mor:	det:art|the n|deer v|get-3S adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	runs away .
+%mor:	n|run-PL adv|away .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	the boy falls off . 87547_96434
+%mor:	det:art|the n|boy v|fall-3S adv|off .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the boy and the dog are in the pond . 96434_103307
+%mor:	det:art|the n|boy coord|and det:art|the n|dog cop|be&PRES prep|in
+	det:art|the n|pond .
+%gra:	1|2|DET 2|6|SUBJ 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the boy and the dog are in the pond . 103307_108087
+%mor:	det:art|the n|boy coord|and det:art|the n|dog cop|be&PRES prep|in
+	det:art|the n|pond .
+%gra:	1|2|DET 2|6|SUBJ 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy and the dog hear something . 108087_110940
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|hear
+	pro:indef|something .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|OBJ
+	8|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the boy says ssh . 110940_115485
+%mor:	det:art|the n|boy v|say-3S co|ssh .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the boy and the dog climb over the log . 115485_119890
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|climb adv|over
+	det:art|the n|log .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|JCT 8|9|DET
+	9|6|OBJ 10|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	the boy and the dog see two frogs . 119890_123991
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|see det:num|two
+	n|frog-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|8|QUANT
+	8|6|OBJ 9|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy and the dog see two frogs and the babies . 123991_129274
+%mor:	det:art|the n|boy coord|and det:art|the n|dog v|see det:num|two
+	n|frog-PL coord|and det:art|the n|baby-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|8|QUANT
+	8|6|OBJ 9|8|CONJ 10|11|DET 11|9|COORD 12|2|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	the boy takes one frog and leaves . 129274_135247
+%mor:	det:art|the n|boy v|take-3S det:num|one n|frog coord|and n|leaf-PL
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|CONJ 7|6|COORD
+	8|3|PUNCT
+%xnar:	$sg=o
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	and waves goodbye . 135247_138753
+%mor:	coord|and n|wave-PL co|goodbye .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COM 4|1|PUNCT
+%xcoh:	$sg=conj
+*CLI:	good . 138753_140770
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

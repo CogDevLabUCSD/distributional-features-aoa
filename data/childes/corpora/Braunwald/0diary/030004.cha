@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/c-00011106-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister, FAT Father
+@ID:	eng|Braunwald|CHI|03;00.04|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@Date:	24-FEB-1974
+*CHI:	we have_to make these dinners .
+%mor:	pro:sub|we mod:aux|have_to v|make pro:dem|these n|dinner-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	488
+*CHI:	we're childs [: children] [*], right ?
+%mor:	pro:sub|we~aux|be&PRES n|child&PL cm|cm n|right ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|LP 5|3|ENUM 6|3|PUNCT
+%sit:	488
+*MOT:	you're what ?
+%mor:	pro:per|you~aux|be&PRES pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	488
+*SIS:	children .
+%mor:	n|child&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	488
+*SIS:	my lentil soup is turning out good .
+%mor:	det:poss|my n|lentil n|soup aux|be&3S part|turn-PRESP prep|out
+	adj|good .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%sit:	489
+*CHI:	oh, that's pretty a_lot .
+%mor:	co|oh cm|cm pro:dem|that~cop|be&3S adv|pretty adv|a_lot .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+%sit:	489
+*CHI:	I can't drive a car .
+%mor:	pro:sub|I mod|can~neg|not v|drive det:art|a n|car .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	490
+*SIS:	you can't ?
+%mor:	pro:per|you mod|can~neg|not ?
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+%sit:	490
+*SIS:	how_come ?
+%mor:	adv:int|how_come ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	490
+*CHI:	because I'm not old enough .
+%mor:	conj|because pro:sub|I~cop|be&1S neg|not adj|old adv|enough .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|JCT 7|3|PUNCT
+%sit:	490
+*CHI:	if we go on the freeway, I hafta go in the wagon .
+%mor:	conj|if pro:sub|we v|go prep|on det:art|the n|freeway cm|cm
+	pro:sub|I mod:aux|hafta v|go prep|in det:art|the n|wagon .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|LP 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|PUNCT
+%sit:	491
+*SIS:	no, you hafta go in the harness .
+%mor:	co|no cm|cm pro:per|you mod:aux|hafta v|go prep|in det:art|the
+	v|harness .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%sit:	491
+*CHI:	oh, great !
+%mor:	co|oh cm|cm adj|great !
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	492
+*CHI:	which one do you want, Jo [: Joanna] ?
+%mor:	pro:rel|which pro:indef|one mod|do pro:per|you v|want cm|cm
+	n:prop|Joanna ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|LP 7|5|ENUM 8|5|PUNCT
+%sit:	492
+*CHI:	which one ?
+%mor:	pro:rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%sit:	492
+*CHI:	Daddy, I'm not gonna ever scream .
+%mor:	n:prop|Daddy cm|cm pro:sub|I~cop|be&1S neg|not mod:aux|gonna
+	adv|ever n|scream .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|8|AUX 7|8|JCT 8|4|PRED
+	9|4|PUNCT
+%sit:	49
+*FAT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	493
+*CHI:	I'm gonna take much .
+%mor:	pro:sub|I~aux|be&1S mod:aux|gonna v|take qn|much .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	494
+*CHI:	so much you can't believe it .
+%mor:	adv|so qn|much pro:per|you mod|can~neg|not v|believe pro:per|it .
+%gra:	1|2|JCT 2|6|QUANT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	494
+*CHI:	my mommy can't believe how much I'm taking .
+%mor:	det:poss|my n|mommy mod|can~neg|not v|believe adv:int|how adv|much
+	pro:sub|I~aux|be&1S part|take-PRESP .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|LINK 7|6|JCT 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|5|PUNCT
+%sit:	494
+*CHI:	my milkshake tastes good .
+%mor:	det:poss|my n|+n|milk+n|shake v|taste-3S adj|good .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	495
+*CHI:	it's good .
+%mor:	pro:per|it~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	495
+*CHI:	I tasted it .
+%mor:	pro:sub|I v|taste-PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	495
+*SIS:	I never knew apple shakes tasted so good .
+%mor:	pro:sub|I adv|never v|know&PAST n|apple n|shake-PL v|taste-PAST
+	adv|so adj|good .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|LINK 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|JCT
+	9|6|PUNCT
+%sit:	495
+*CHI:	smell my apple shake .
+%mor:	v|smell det:poss|my n|apple n|shake .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%sit:	495
+*CHI:	it's good .
+%mor:	pro:per|it~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	495
+@End

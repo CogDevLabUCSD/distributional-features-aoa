@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/c-00041706-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 133 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|5;3.|female|New_Onset_Match||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	133, audio
+*CHI:	<he's getting the talk of> [//] he's getting a dog and a frog . 1_11465
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP det:art|a n|dog coord|and
+	det:art|a n|frog .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+%xnar:	$sg=s1
+*INV:	you wanna speak a little bit louder .
+%mor:	pro:per|you v|want~inf|to v|speak det:art|a adj|little n|bit
+	adj|loud-CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|POSTMOD
+	9|2|PUNCT
+*INV:	speak louder . 11465_15998
+%mor:	v|speak adj|loud-CP .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	he's sleeping .
+%mor:	pro:sub|he~aux|be&3S part|sleep-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%xnar:	$sg=ie1
+%xcoh:	$sg=ref
+*CHI:	and the frog's getting out <of the> [/] of the &-uh &-uh bucket
+	[* sem] . 15998_30069
+%mor:	coord|and det:art|the n|frog~aux|be&3S n:gerund|get-PRESP adv|out
+	prep|of det:art|the n|bucket .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+%com:	said bucket when it should be jar
+%xnar:	$sg=ie2
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and the boy wake [* syn] up . 30069_33221
+%mor:	coord|and det:art|the n|boy v|wake adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xnar:	$sg=ie3
+%xcoh:	$sg=conj, $sg=ref
+%com:	Boy is "ref" because it ties back to "he" .
+*CHI:	<and the dog> [/] and the dog went in the bucket [* sem] . 33221_46601
+%mor:	coord|and det:art|the n|dog v|go&PAST prep|in det:art|the n|bucket
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj_retrace, $sg=lex_retrace, $sg=conj, $sg=lex, $sg=lex
+*CHI:	and he couldn't get out . 46601_49593
+%mor:	coord|and pro:sub|he mod|could~neg|not v|get adv|out .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and he fell out of the window . 49593_57296
+%mor:	coord|and pro:sub|he v|fall&PAST adv|out prep|of det:art|the
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	the boy got mad . 57296_61771
+%mor:	det:art|the n|boy v|get&PAST adj|mad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	(.) &-uh (.) the boy <&i> [/] is yelling . 61771_74637
+%mor:	det:art|the n|boy aux|be&3S part|yell-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=lex
+*CHI:	I don't know what happens in this one . 74637_82941
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what v|happen-3S prep|in
+	pro:dem|this pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%com:	I didn't code this for syntactic complexity because it is not part
+	of the story .
+*INV:	it's okay . 82941_85205
+%mor:	pro:per|it~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	keep going . 85205_86790
+%mor:	v|keep n:gerund|go-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	(.) &-uh <the dog> [//] mole +...
+%mor:	n|mole +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xcoh:	$sg=lex_retrace
+*CHI:	and the boy doesn't want <the> [//] that little thing to get him . 86790_111747
+%mor:	coord|and det:art|the n|boy mod|do&3S~neg|not v|want pro:dem|that
+	adj|little n|thing inf|to v|get pro:obj|him .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|11|INF 11|9|XCOMP 12|11|OBJ 13|6|PUNCT
+%xsyn:	$sg=ccu, $sg=vpc
+%xcoh:	$sg=conj, $sg=lex, $sg=subs
+*CHI:	(.) &-uh &-uh &-uh .
+*INV:	keep going . 111747_125606
+%mor:	v|keep n:gerund|go-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	<the> [/] the dog broke <the bee's> [/] the bee's home [* sem] . 125606_133372
+%mor:	det:art|the n|dog v|break&PAST det:art|the n|bee~poss|s n|home .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|MOD 6|5|POSS 7|3|JCT 8|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the boy's climbing the tree . 133372_138834
+%mor:	det:art|the n|boy~aux|be&3S part|climb-PRESP det:art|the n|tree .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the bees are getting the boy . 138834_147829
+%mor:	det:art|the n|bee-PL aux|be&PRES part|get-PRESP det:art|the n|boy .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	the bees are getting the dog too . 147829_151733
+%mor:	det:art|the n|bee-PL aux|be&PRES part|get-PRESP det:art|the n|dog
+	adv|too .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	<the> [/] the boy is climbing a rock . 151733_160141
+%mor:	det:art|the n|boy aux|be&3S part|climb-PRESP det:art|a n|rock .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%xcoh:	$sg=lex
+%com:	I didn't code this as an attempt (or any other possibility),
+	because there is no indication that the boy is looking for the frog .
+	Even at the end of the story, there's no indication that the boy has
+	found the frog, and no mention of him carrying away a frog .
+*CHI:	and he's yelling . 160141_164500
+%mor:	coord|and pro:sub|he~aux|be&3S part|yell-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	&-uh the big deer grabbed him .
+%mor:	det:art|the adj|big n|deer v|grab-PAST pro:obj|him .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%xcoh:	$sg=ref
+*CHI:	and he [/] he was riding on a deer . 164500_178701
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|ride-PRESP prep|on
+	det:art|a n|deer .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	and the deer threw him down in the mud . 178701_183798
+%mor:	coord|and det:art|the n|deer v|throw&PAST pro:obj|him adv|down
+	prep|in det:art|the n|mud .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=ref
+*CHI:	&-uh I don't know what that means .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:dem|that v|mean-3S
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*INV:	okay . 183798_191085
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and the boy fell in the mud +... 191085_196675
+%mor:	coord|and det:art|the n|boy v|fall&PAST prep|in det:art|the n|mud
+	+...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	and <he &go> [/] <he got <&u> [/] up> [//] and he got up . 196675_205443
+%mor:	coord|and coord|and pro:sub|he v|get&PAST adv|up .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref_retrace, $sg=ref_retrace, $sg=ref
+*CHI:	and then he got out of mud .
+%mor:	coord|and adv:tem|then pro:sub|he v|get&PAST adv|out prep|of n|mud
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|JCT 7|6|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	and they looked [*] the water <&b> [//] the log . 205443_216388
+%mor:	coord|and pro:sub|they cop|look-PAST det:art|the n|water
+	det:art|the n|log .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|DET 7|5|OBJ 8|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref_error
+%com:	I coded "they" as an error, because up to now he's only talked
+	about the boy being in the mud .
+*CHI:	and <the> [//] there were two frogs . 216388_223310
+%mor:	coord|and adv|there cop|be&PAST det:num|two n|frog-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+%xcoh:	$sg=conj, $sg=lex
+*CHI:	two frogs &-um +...
+%mor:	det:num|two n|frog-PL +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%xcoh:	$sg=lex
+*CHI:	I don't know what happens .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what v|happen-3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+%com:	I did not code this for syntactic complexity as it is not part of
+	the story .
+*CHI:	that's the same picture . 223310_233602
+%mor:	pro:dem|that~cop|be&3S det:art|the adj|same n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	and the boys [* gram] went back in the mud .
+%mor:	coord|and det:art|the n|boy-PL v|go&PAST adv|back prep|in
+	det:art|the n|mud .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=lex
+*CHI:	and then [* the] <&fr> [//] frogs watch [*] them go . 233602_246950
+%mor:	coord|and adv:tem|then n|frog-PL n|watch pro:obj|them v|go .
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|0|ROOT 5|6|SUBJ 6|4|XCOMP 7|4|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=ref
+*CHI:	the end . 246950_250541
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

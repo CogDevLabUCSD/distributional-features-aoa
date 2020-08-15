@@ -1,0 +1,217 @@
+@UTF8
+@PID:	11312/c-00034888-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , EX1 Investigator
+@ID:	eng|HSLLD|CHI|4;8.29|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|14||
+@ID:	eng|HSLLD|EX1|||||Investigator|||
+@Birth of CHI:	30-DEC-1985
+@Comment:	SES of Mot is lower
+@Date:	28-AUG-1990
+@Location:	Boston , MA USA
+@Activities:	Elicited report
+*MOT:	you know what I was thinkin(g) about ?
+%mor:	pro:per|you v|know pro:int|what pro:sub|I aux|be&PAST&13S
+	part|think-PRESP adv|about ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|2|PUNCT
+@Comment:	Time is 11:12
+*CHI:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	we wanted to know whether you could tell us something exciting that happened to you this week ?
+%mor:	pro:sub|we v|want-PAST inf|to v|know conj|whether pro:per|you
+	mod|could v|tell pro:obj|us pro:indef|something adj|exciting
+	pro:rel|that v|happen-PAST prep|to pro:per|you pro:dem|this n|week ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|OBJ 10|8|OBJ 11|10|PRED 12|13|LINK 13|11|CMOD 14|13|JCT 15|17|SUBJ
+	16|17|DET 17|14|POBJ 18|2|PUNCT
+%cod:	$N:RI:O
+*MOT:	maybe something at school +...
+%mor:	adv|maybe pro:indef|something prep|at n|school +...
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+%cod:	$N:RI:O
+*CHI:	oh brother !
+%mor:	co|oh n|brother !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$O
+%int:	mock annoyed
+*MOT:	you know what I was thinkin(g) about ?
+%mor:	pro:per|you v|know pro:int|what pro:sub|I aux|be&PAST&13S
+	part|think-PRESP adv|about ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|2|PUNCT
+%cod:	$N:O
+*MOT:	you remember who came to visit your school the other day ?
+%mor:	pro:per|you v|remember pro:int|who v|come&PAST inf|to v|visit
+	det:poss|your n|school det:art|the qn|other n|day ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|INF 6|4|XCOMP 7|8|MOD 8|6|OBJ
+	9|11|DET 10|11|QUANT 11|6|JCT 12|2|PUNCT
+%cod:	$N:RI:S
+*MOT:	you could talk right <into this &c &-uh> [//] into this tape recorder .
+%mor:	pro:per|you mod|could v|talk adv|right prep|into pro:dem|this
+	n|tape n|record&dv-AGT .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+%cod:	$O
+*MOT:	+^ that's pretty exciting .
+%mor:	pro:dem|that~cop|be&3S adv|pretty part|excite-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%cod:	$O
+*MOT:	who came to visit your school yesterday ?
+%mor:	pro:int|who v|come&PAST inf|to v|visit det:poss|your n|school
+	adv:tem|yesterday ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|MOD 6|4|OBJ 7|4|JCT 8|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	the dentist .
+%mor:	det:art|the n|dentist .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	&=gasp .
+*CHI:	and he showed me &-um (.) you tie two &-um pieces of that string you hook onto your teeth .
+%mor:	coord|and pro:sub|he v|show-PAST pro:obj|me pro:per|you v|tie
+	det:num|two n|piece-PL prep|of pro:dem|that n|string pro:per|you
+	v|hook prep|onto det:poss|your n|tooth&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|8|CMOD 14|13|JCT 15|16|MOD
+	16|14|POBJ 17|3|PUNCT
+%cod:	$N:GI:S
+*CHI:	to your other hand then fix your teeth [!] up !
+%mor:	prep|to det:poss|your qn|other n|hand adv:tem|then v|fix
+	det:poss|your n|tooth&PL adv|up !
+%gra:	1|6|INF 2|4|MOD 3|4|QUANT 4|1|POBJ 5|6|JCT 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|6|PUNCT
+%cod:	$N:GI:S
+*MOT:	yeah dental floss that's called .
+%mor:	co|yeah adj|dental n|floss pro:rel|that~aux|be&3S part|call-PASTP .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|AUX 6|3|CMOD 7|3|PUNCT
+%cod:	$O:W
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O
+*MOT:	and what else did he say ?
+%mor:	coord|and pro:int|what post|else mod|do&PAST pro:sub|he v|say ?
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%cod:	$N:RI:S
+*CHI:	<he said> [//] &-um he showed us a skeleton !
+%mor:	pro:sub|he v|show-PAST pro:obj|us det:art|a n|skeleton !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	skeleton .
+%mor:	n|skeleton .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+%int:	hushed
+*CHI:	yup and also he showed us two [?] teeth .
+%mor:	co|yup coord|and adv|also pro:sub|he v|show-PAST pro:obj|us
+	det:num|two n|tooth&PL .
+%gra:	1|5|COM 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|QUANT 8|5|OBJ
+	9|5|PUNCT
+%cod:	$N:FR $N:GI:S
+*CHI:	&an &an and the cavities get +//.
+%mor:	coord|and det:art|the n|cavity-PL v|get +//.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$N:D
+*CHI:	&an and that <yucky stuff> [//] green stuff gets through your [/] (.) your gums .
+%mor:	coord|and pro:dem|that adj|green n|stuff v|get-3S adj|through
+	det:poss|your n|gum-PL .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+%cod:	$N:GI:S
+*CHI:	then [/] then you'll be in big trouble &=dramatically !
+%mor:	adv:tem|then pro:per|you~mod|will cop|be prep|in adj|big n|trouble
+	!
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+%cod:	$N:GI:S
+*CHI:	right [>] .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:U
+*MOT:	xxx [<] .
+%cod:	$N:U
+*CHI:	and then (.) www &=sniffles .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%cod:	$N:U
+*CHI:	<and then> [/] and then I saw some cavities .
+%mor:	coord|and adv:tem|then pro:sub|I v|see&PAST qn|some n|cavity-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+%cod:	$N:GI:S
+*MOT:	you saw some cavities ?
+%mor:	pro:per|you v|saw qn|some n|cavity-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%cod:	$N:FC
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FR
+*MOT:	he showed you what they looked like ?
+%mor:	pro:sub|he v|show-PAST pro:per|you pro:int|what pro:sub|they
+	v|look-PAST prep|like ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+%cod:	$N:RI:L
+*CHI:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*CHI:	and we said eyeball eyeball !
+%mor:	coord|and pro:sub|we v|say&PAST n|+n|eye+n|ball n|+n|eye+n|ball !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%cod:	$N:GI:S
+*MOT:	you said they looked like eyeballs ?
+%mor:	pro:per|you v|say&PAST pro:sub|they v|look-PAST prep|like
+	n|+n|eye+n|ball-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$N:RC
+*CHI:	we [//] then we said that eyeball .
+%mor:	adv:tem|then pro:sub|we v|say&PAST pro:rel|that n|+n|eye+n|ball .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%cod:	$N:GC
+*MOT:	did he tell you how many times a day to brush your teeth ?
+%mor:	mod|do&PAST pro:sub|he v|tell pro:per|you adv:int|how qn|many
+	n|time-PL det:art|a n|day inf|to v|brush det:poss|your n|tooth&PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|QUANT 7|3|OBJ 8|9|DET
+	9|7|OBJ 10|11|INF 11|9|XMOD 12|13|MOD 13|11|OBJ 14|3|PUNCT
+%cod:	$N:RI:L
+*CHI:	mm two days .
+%mor:	co|mm det:num|two n|day-PL .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:GI:RL:E
+*CHI:	<and [/] &a and> [>] +/.
+%mor:	coord|and +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:U
+*MOT:	<two times a day> [<] ?
+%mor:	det:num|two n|time-PL det:art|a n|day ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$N:RC
+*CHI:	and xxx important time at xxx [=! gurgling sound] .
+%mor:	coord|and adj|important n|time prep|at .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT 5|4|POBJ
+%cod:	$N:U
+*MOT:	you gotta talk clearly or the tape recorder can't hear you .
+%mor:	pro:per|you mod:aux|gotta v|talk adv|clear&dadj-LY coord|or
+	det:art|the n|tape n|record&dv-AGT mod|can~neg|not v|hear
+	pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|CONJ 6|8|DET 7|8|MOD 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|5|COORD 12|11|OBJ 13|3|PUNCT
+%cod:	$O:T
+*EX1:	I heard important time at night right ?
+%mor:	pro:sub|I v|hear&PAST adj|important n|time prep|at n|night
+	adj|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+*CHI:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EX1:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EX1:	I heard that .
+%mor:	pro:sub|I v|hear&PAST pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@Comment:	Time is 12:51
+@End

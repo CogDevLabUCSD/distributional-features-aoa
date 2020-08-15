@@ -1,0 +1,311 @@
+@UTF8
+@PID:	11312/c-00041721-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 172 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|11;10.|male|Chronic_Match||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	172, audio
+*INV:	number one seventy two . 3779_7401
+%mor:	n|number det:num|one det:num|seventy det:num|two .
+%gra:	1|0|INCROOT 2|3|QUANT 3|4|QUANT 4|1|ENUM 5|1|PUNCT
+%com:	syn and coh tiers may not line up perfectly . Edits took place after
+	coh and syn coding because c units were not divided correctly in
+	transcript .
+*CHI:	&-um (...) okay &-um (.) the boy and a dog have caught a frog .
+%mor:	co|okay det:art|the n|boy coord|and det:art|a n|dog aux|have
+	part|catch&PASTP det:art|a n|frog .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|CJCT
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+%xnar:	$sg=s1; $sg=s2
+*CHI:	and they have put it in a jar . 7401_21310
+%mor:	coord|and pro:sub|they v|have v|put&ZERO pro:per|it prep|in
+	det:art|a n|jar .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref; $sg=ref
+*CHI:	&-um and then while the boy and the dog are sleeping the frog jumps
+	out of the jar and escapes . 26144_38425
+%mor:	coord|and adv:tem|then n|while det:art|the n|boy coord|and
+	det:art|the n|dog aux|be&PRES part|sleep-PRESP det:art|the n|frog
+	v|jump-3S adv|out prep|of det:art|the n|jar coord|and n|escape-PL .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COORD 4|5|DET 5|3|OBJ 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|XMOD 11|12|DET 12|13|SUBJ 13|10|COMP 14|13|JCT
+	15|13|JCT 16|17|DET 17|15|POBJ 18|17|CONJ 19|18|COORD 20|1|PUNCT
+%xnar:	$sg=ie1; $sg=ie2
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=conj; $sg=lex; $sg=lex; $sg=lex; $sg=lex
+*CHI:	and in the morning when the boy and the dog woke up they wonder
+	where the frog is . 38426_42797
+%mor:	coord|and prep|in det:art|the n|morning conj|when det:art|the n|boy
+	coord|and det:art|the n|dog v|wake&PAST adv|up pro:sub|they v|wonder
+	pro:rel|where det:art|the n|frog cop|be&3S .
+%gra:	1|14|LINK 2|14|JCT 3|4|DET 4|2|POBJ 5|11|LINK 6|7|DET 7|11|SUBJ
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|14|CJCT 12|11|JCT 13|14|SUBJ 14|0|ROOT
+	15|18|LINK 16|17|DET 17|18|SUBJ 18|14|COMP 19|14|PUNCT
+%xnar:	$sg=ie3; $sg=ie5
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=conj; $sg=lex; $sg=lex; $sg=ref; $sg=lex
+*CHI:	they look all over their room .
+%mor:	pro:sub|they cop|look adv|all prep|over det:poss|their n|room .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+%xnar:	$sg=a1
+*CHI:	and the dog gets the jar stuck on his head . 42797_43188
+%mor:	coord|and det:art|the n|dog v|get-3S det:art|the n|jar v|stick&PAST
+	prep|on det:poss|his n|head .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|4|PUNCT
+%xcoh:	$sg=ref; $sg=lex; $sg=lex
+*CHI:	they call out through the window . 43188_48440
+%mor:	pro:sub|they v|call adv|out prep|through det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%xcoh:	$sg=ref
+%xnar:	$sg=a3
+*CHI:	&-um the dog falls with the jar still on his head out the window . 48440_53256
+%mor:	det:art|the n|dog v|fall-3S prep|with det:art|the n|jar adv|still
+	prep|on det:poss|his n|head prep|out det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|JCT
+	9|10|MOD 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex; $sg=lex
+*CHI:	and then the boy hops out . 53256_55768
+%mor:	coord|and adv:tem|then det:art|the n|boy v|hop-3S adv|out .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	and then &-um saves the dog from all the broken glass . 55768_59155
+%mor:	coord|and adv:tem|then v|save-3S det:art|the n|dog prep|from qn|all
+	det:art|the part|break&PASTP n|glass .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|10|QUANT 8|10|DET
+	9|10|MOD 10|6|POBJ 11|3|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	&-um and the dog is happy . 59155_69060
+%mor:	coord|and det:art|the n|dog cop|be&3S adj|happy .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	&-um then they go out looking for the frog and calling it's name . 69060_73876
+%mor:	adv:tem|then pro:sub|they v|go adv|out part|look-PRESP prep|for
+	det:art|the n|frog coord|and part|call-PRESP pro:per|it~cop|be&3S
+	n|name .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|12|SUBJ 12|10|CMOD 13|12|PRED 14|3|PUNCT
+%xnar:	$sg=a2
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+*CHI:	&-um (..) &-um the boy looks through a hole and calls frog . 73876_83871
+%mor:	det:art|the n|boy cop|look-3S prep|through det:art|a n|hole
+	coord|and v|call-3S n|frog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+%xnar:	$sg=a4
+*CHI:	while the dog is intimidated by a beehive and is barking and
+	jumping around at it . 83871_91379
+%mor:	conj|while det:art|the n|dog aux|be&3S part|intimidate-PASTP
+	prep|by det:art|a n|beehive coord|and aux|be&3S part|bark-PRESP
+	coord|and part|jump-PRESP adv|around prep|at pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|11|AUX 11|9|COORD 12|11|CONJ 13|12|COORD 14|13|JCT 15|13|JCT
+	16|15|POBJ 17|5|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex
+*CHI:	then a groundhog comes out of the hole and hits the boy in the nose
+	. 91379_97213
+%mor:	adv:tem|then det:art|a n|+n|ground+n|hog v|come-3S adv|out prep|of
+	det:art|the n|hole coord|and v|hit-3S det:art|the n|boy prep|in
+	det:art|the n|nose .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	and the dog is still barking at the beehive . 97213_101150
+%mor:	coord|and det:art|the n|dog cop|be&3S adv|still part|bark-PRESP
+	prep|at det:art|the n|beehive .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	(..) and then the beehive falls down and the bees start coming out
+	and looking at the dog . 101150_116361
+%mor:	coord|and adv:tem|then det:art|the n|beehive v|fall-3S adv|down
+	coord|and det:art|the n|bee-PL v|start part|come-PRESP adv|out
+	coord|and part|look-PRESP prep|at det:art|the n|dog .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|5|COMP 11|10|OBJ 12|11|JCT 13|11|CONJ 14|13|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|5|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	and the dog suddenly looks sad . 116361_121002
+%mor:	coord|and det:art|the n|dog adv|sudden&dadj-LY cop|look-3S adj|sad
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	and while the boy looks through a hole in the tree still looking
+	for his frog . 121001_125085
+%mor:	coord|and conj|while det:art|the n|boy cop|look-3S prep|through
+	det:art|a n|hole prep|in det:art|the n|tree adv|still
+	part|look-PRESP prep|for det:poss|his n|frog .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|JCT 13|5|XJCT 14|13|JCT 15|16|MOD
+	16|14|POBJ 17|5|PUNCT
+%xnar:	$sg=a5
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	and then at the same time the owl comes out of the hole in the tree
+	. 125085_128798
+%mor:	coord|and adv:tem|then prep|at det:art|the adj|same n|time
+	det:art|the n|owl v|come-3S adv|out prep|of det:art|the n|hole
+	prep|in det:art|the n|tree .
+%gra:	1|9|LINK 2|9|JCT 3|9|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|9|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+%com:	I counted "hole in the tree" as one lexical tie
+*CHI:	and the boy falls to the ground being shock and falls to the ground
+	. 128798_132510
+%mor:	coord|and det:art|the n|boy v|fall-3S prep|to det:art|the n|ground
+	n|being n|shock coord|and v|fall-3S prep|to det:art|the n|ground .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|DET 7|8|MOD 8|9|MOD
+	9|5|POBJ 10|4|CONJ 11|10|COORD 12|11|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	and while the dog is running for his life away from the swarm of
+	bees . 132510_136175
+%mor:	coord|and conj|while det:art|the n|dog aux|be&3S part|run-PRESP
+	prep|for det:poss|his n|life adv|away prep|from det:art|the n|swarm
+	prep|of n|bee-PL .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|6|JCT 11|6|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|6|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	and &-um the owl is flying to another tree getting mad at the boy . 136175_147412
+%mor:	coord|and det:art|the n|owl aux|be&3S part|fly-PRESP prep|to
+	qn|another n|tree part|get-PRESP adj|mad prep|at det:art|the n|boy .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|XJCT 10|9|PRED 11|10|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	while the boy is climbing a rock . 147412_151224
+%mor:	conj|while det:art|the n|boy aux|be&3S part|climb-PRESP det:art|a
+	n|rock .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex
+*CHI:	and &-um when the boy gets to the top of the rock he holds onto a
+	branch . 154495_160755
+%mor:	coord|and conj|when det:art|the n|boy v|get-3S prep|to det:art|the
+	n|top prep|of det:art|the n|rock pro:sub|he v|hold-3S prep|onto
+	det:art|a n|branch .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|5|CJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|5|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	while the dog is cowering behind the rock . 160755_163577
+%mor:	conj|while det:art|the n|dog aux|be&3S part|cower-PRESP prep|behind
+	det:art|the n|rock .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	but then while the dog is sniffing behind the rock . 163577_172180
+%mor:	conj|but adv:tem|then conj|while det:art|the n|dog aux|be&3S
+	part|sniff-PRESP prep|behind det:art|the n|rock .
+%gra:	1|3|LINK 2|3|JCT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+%xnar:	$sg=a6
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	the branches instead of being branches turned out to be the antlers
+	of a deer . 172180_177320
+%mor:	det:art|the n|branch-PL adv|instead prep|of n:gerund|be-PRESP
+	n|branch-PL v|turn-PAST adv|out inf|to cop|be det:art|the
+	n|antler-PL prep|of det:art|a n|deer .
+%gra:	1|2|DET 2|7|SUBJ 3|7|JCT 4|7|JCT 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|INF 10|7|XCOMP 11|12|DET 12|10|PRED 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|7|PUNCT
+%xcoh:	$sg=lex
+*CHI:	and the deer picks up the boy with his antlers . 177320_180575
+%mor:	coord|and det:art|the n|deer v|pick-3S prep|up det:art|the n|boy
+	prep|with det:poss|his n|antler-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|MOD 10|8|POBJ 11|4|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	takes him over to this cliff .
+%mor:	v|take-3S pro:obj|him adv|over prep|to pro:dem|this n|cliff .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%xcoh:	$sg=ref
+*CHI:	with the dog barking at him . 180575_184137
+%mor:	prep|with det:art|the n|dog part|bark-PRESP prep|at pro:obj|him .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|XMOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%xcoh:	$sg=lex; $sg=ref
+*CHI:	and &-um and shoves the boy and the dog into a pond . 184137_188451
+%mor:	coord|and coord|and v|shove-3S det:art|the n|boy coord|and
+	det:art|the n|dog prep|into det:art|a n|pond .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET
+	8|6|COORD 9|8|NJCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex
+*CHI:	and when they fell into the pond the deer isn't satisfied . 188451_195453
+%mor:	coord|and conj|when pro:sub|they v|fall&PAST prep|into det:art|the
+	n|pond det:art|the n|deer cop|be&3S~neg|not part|satisfy-PASTP .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|10|SUBJ 10|7|CMOD 11|10|NEG 12|10|PRED 13|4|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=conj; $sg=ref; $sg=lex; $sg=lex
+*CHI:	and then when they get up from the pond they hear something . 195453_199540
+%mor:	coord|and adv:tem|then conj|when pro:sub|they v|get adv|up
+	prep|from det:art|the n|pond pro:sub|they v|hear pro:indef|something
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|JCT 7|5|JCT
+	8|9|DET 9|7|POBJ 10|11|SUBJ 11|5|COMP 12|11|OBJ 13|1|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+*CHI:	and they're happy . 199540_203486
+%mor:	coord|and pro:sub|they~aux|be&PRES adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref
+*CHI:	the boy tells the dog to be quiet while he looks . 203486_208831
+%mor:	det:art|the n|boy v|tell-3S det:art|the n|dog inf|to cop|be n|quiet
+	conj|while pro:sub|he cop|look-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|7|PRED
+	9|11|LINK 10|11|SUBJ 11|7|CJCT 12|3|PUNCT
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	they both look behind this log that's on the ground . 208831_212467
+%mor:	pro:sub|they post|both cop|look prep|behind pro:dem|this n|log
+	pro:rel|that~aux|be&3S prep|on det:art|the n|ground .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+%xnar:	$sg=a7
+%xcoh:	$sg=ref
+*CHI:	and they see that their frog is now married and has kids . 212467_215843
+%mor:	coord|and pro:sub|they v|see pro:rel|that det:poss|their n|frog
+	aux|be&3S adv|now part|marry-PASTP coord|and aux|have&3S n|kid-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|9|LINK 5|6|MOD 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|3|COMP 10|9|CONJ 11|12|AUX 12|10|COORD 13|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+%xnar:	$sg=o
+*CHI:	and then the two frogs give the boy and the dog one of their kids .
+	215843_225246
+%mor:	coord|and adv:tem|then det:art|the det:num|two n|frog-PL v|give
+	det:art|the n|boy coord|and det:art|the n|dog pro:indef|one prep|of
+	det:poss|their n|kid-PL .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|11|XMOD 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|6|PUNCT
+%xcoh:	$sg=conj; $sg=lex; $sg=lex; $sg=lex; $sg=lex
+*CHI:	while helplessly another baby frog is still on the ground . 233678_238495
+%mor:	conj|while adv|help&dadj-LESS-LY qn|another n|baby n|frog cop|be&3S
+	adv|still prep|on det:art|the n|ground .
+%gra:	1|3|LINK 2|3|JCT 3|5|QUANT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex
+*CHI:	while the other frogs are on top of the log . 238495_241123
+%mor:	conj|while det:art|the qn|other n|frog-PL cop|be&PRES prep|on n|top
+	prep|of det:art|the n|log .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex; $sg=lex
+*CHI:	and the baby frog can not get up . 241123_244467
+%mor:	coord|and det:art|the n|baby n|frog mod|can neg|not v|get adv|up .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+%xcoh:	$sg=conj; $sg=lex
+*CHI:	the end . 244467_254238
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

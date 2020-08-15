@@ -1,0 +1,783 @@
+@UTF8
+@PID:	11312/c-00006146-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother
+@ID:	eng|Weismer|CHI|2;6.|male|||Target_Child|||
+@ID:	eng|Weismer|MOT|||||Mother|||
+@Media:	22169, audio
+*MOT:	what's in there ?
+%mor:	pro:int|what~cop|be&3S prep|in adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	hay ?
+%mor:	n|hay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hay .
+%mor:	n|hay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	just like Laurie has .
+%mor:	adv|just co|like n:prop|Laurie aux|have&3S .
+%gra:	1|2|JCT 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	hay .
+%mor:	n|hay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where does it go ?
+%mor:	adv:int|where mod|do&3S pro:per|it v|go ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	(0.4) xxx .
+*MOT:	(0.8) look what I have .
+%mor:	co|look pro:int|what pro:sub|I v|have .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	I have toys in here .
+%mor:	pro:sub|I v|have n|toy-PL prep|in adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*MOT:	doors open and shut .
+%mor:	n|door-PL adj|open coord|and v|shut&ZERO .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*MOT:	open .
+%mor:	adj|open .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	shut .
+%mor:	v|shut&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	very nice .
+%mor:	adv|very adj|nice .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	(0.6) should we put some animals in ?
+%mor:	mod|should pro:sub|we v|put&ZERO qn|some n|animal-PL adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*MOT:	zip .
+%mor:	v|zip .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	<just like what> [/?] just like Laurie does .
+%mor:	adj|just co|like n:prop|Laurie v|do&3S .
+%gra:	1|4|JCT 2|1|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	zip open .
+%mor:	v|zip adj|open .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	zip .
+%mor:	v|zip .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	what are those ?
+%mor:	pro:int|what aux|be&PRES pro:dem|those ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*MOT:	those are fences .
+%mor:	pro:dem|those cop|be&PRES n|fence-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	can you see fence ?
+%mor:	mod|can pro:per|you v|see n|fence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	is that where that goes ?
+%mor:	cop|be&3S pro:dem|that adv:int|where pro:rel|that v|go-3S ?
+%gra:	1|5|AUX 2|5|DET 3|5|LINK 4|5|LINK 5|0|ROOT 6|5|PUNCT
+*MOT:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	I don't know if those can work together .
+%mor:	pro:sub|I mod|do~neg|not v|know conj|if pro:dem|those mod|can
+	v|work adv|together .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|JCT 10|4|PUNCT
+*MOT:	(0.5) it looks like it should go there but it doesn't .
+%mor:	pro:per|it cop|look-3S prep|like pro:per|it mod|should v|go
+	adv|there conj|but pro:per|it mod|do&3S~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|SUBJ 5|6|AUX 6|3|POBJ 7|2|JCT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|2|PUNCT
+*MOT:	how about if we put them together ?
+%mor:	adv:int|how adv|about conj|if pro:sub|we v|put&ZERO pro:obj|them
+	adv|together ?
+%gra:	1|3|LINK 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*MOT:	together .
+%mor:	adv|together .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	like that .
+%mor:	prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	they snap together .
+%mor:	pro:sub|they v|snap adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	snap .
+%mor:	n|snap .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	snap together .
+%mor:	n|snap adv|together .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	snap .
+%mor:	n|snap .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	should we put an animal in there ?
+%mor:	mod|should pro:sub|we v|put&ZERO det:art|a n|animal prep|in
+	adv|there ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*MOT:	what animal ?
+%mor:	pro:int|what n|animal ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	what animal should we pick ?
+%mor:	pro:int|what n|animal mod|should pro:sub|we v|pick ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	(0.7) chicken .
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what does that chicken say ?
+%mor:	pro:int|what mod|do&3S pro:dem|that n|chicken v|say ?
+%gra:	1|5|LINK 2|3|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	what do you think that chicken says ?
+%mor:	pro:int|what mod|do pro:per|you v|think pro:dem|that n|chicken
+	v|say-3S ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*MOT:	does it say moo ?
+%mor:	mod|do&3S pro:per|it v|say on|moo ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 .
+%act:	makes chicken sounds .
+*MOT:	0 .
+%act:	makes chicken sounds .
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx [>] .
+*MOT:	<very good> [<] .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	one two .
+%mor:	det:num|one det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	one [>] .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	three [<] .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	just one .
+%mor:	adv|just det:num|one .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	should we get another one ?
+%mor:	mod|should pro:sub|we v|get qn|another pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	then we'll have one two .
+%mor:	adv:tem|then pro:sub|we~mod|will aux|have det:num|one det:num|two .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|AUX 5|6|QUANT 6|0|ROOT 7|6|PUNCT
+*CHI:	one two .
+%mor:	det:num|one det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	what animal should we get next ?
+%mor:	pro:int|what n|animal mod|should pro:sub|we aux|get adv|next ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	cow .
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what does the cow say ?
+%mor:	pro:int|what v|do&3S det:art|the n|cow v|say ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	0 .
+%act:	moo .
+*MOT:	yes &=moo .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	moo .
+*MOT:	does he want to go in with the chicken ?
+%mor:	mod|do&3S pro:sub|he v|want inf|to v|go adv|in prep|with
+	det:art|the n|chicken ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*MOT:	(0.3) hi cow .
+%mor:	co|hi n|cow .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	hi chicken .
+%mor:	co|hi n|chicken .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	they're talking together .
+%mor:	pro:sub|they~aux|be&PRES part|talk-PRESP adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	how many animals do we have ?
+%mor:	adv:int|how qn|many n|animal-PL v|do pro:sub|we v|have ?
+%gra:	1|2|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+*MOT:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	what next ?
+%mor:	pro:int|what adv|next ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a pig .
+%mor:	det:art|a n|pig .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	(0.3) oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	back+pack .
+%mor:	n|+n|back+n|pack .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that does look like a back+pack .
+%mor:	pro:rel|that v|do&3S cop|look conj|like det:art|a n|+n|back+n|pack
+	.
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|DET 6|4|OBJ 7|3|PUNCT
+*MOT:	that's a purse .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|purse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	purse .
+%mor:	n|purse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's from Mr_Potato_Head .
+%mor:	pro:dem|that~cop|be&3S prep|from n:prop|Mr_Potato_Head .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	we don't want the purse in with the animals .
+%mor:	pro:sub|we mod|do~neg|not v|want det:art|the n|purse adv|in
+	prep|with det:art|the n|animal-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*MOT:	should we put the pig in ?
+%mor:	mod|should pro:sub|we v|put&ZERO det:art|the n|pig adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*MOT:	what does that pig say ?
+%mor:	pro:int|what mod|do&3S pro:dem|that n|pig v|say ?
+%gra:	1|5|LINK 2|3|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	0 .
+%act:	snorts .
+*MOT:	can you say pig ?
+%mor:	mod|can pro:per|you v|say n|pig ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh good job .
+%mor:	co|oh adj|good n|job .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	now there's one two three .
+%mor:	adv|now pro:exist|there~cop|be&3S det:num|one det:num|two
+	det:num|three .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|QUANT 6|3|PRED 7|3|PUNCT
+*MOT:	which one next ?
+%mor:	pro:rel|which pro:indef|one adj|next ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	are you looking at Potato_Head ?
+%mor:	cop|be&PRES pro:per|you part|look-PRESP prep|at n:prop|Potato_Head
+	?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XJCT 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	head .
+%mor:	n|head .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Potato_Head .
+%mor:	n:prop|Potato_Head .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that [/?] you're looking at what you think is the back+pack .
+%mor:	pro:per|you~cop|be&PRES part|look-PRESP prep|at pro:int|what
+	pro:per|you v|think aux|be&3S det:art|the n|+n|back+n|pack .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|3|ENUM 8|10|AUX
+	9|10|DET 10|7|OBJ 11|2|PUNCT
+*CHI:	back+pack .
+%mor:	n|+n|back+n|pack .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh look .
+%mor:	co|oh co|look .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx .
+*MOT:	this is a lady Potato_Head .
+%mor:	pro:dem|this cop|be&3S det:art|a n|lady n:prop|Potato_Head .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|2|PUNCT
+*MOT:	do you wanna finish with the horsie ?
+%mor:	mod|do pro:per|you v|want~inf|to v|finish prep|with det:art|the
+	n|horse-DIM ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MOT:	should we put the horsie in with the animals ?
+%mor:	mod|should pro:sub|we v|put&ZERO det:art|the n|horse-DIM adv|in
+	prep|with det:art|the n|animal-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*MOT:	oh you like Potato_Head .
+%mor:	co|oh pro:per|you v|like n:prop|Potato_Head .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	what are you gonna do with Potato_Head ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP~inf|to v|do
+	prep|with n:prop|Potato_Head ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*CHI:	xxx .
+*MOT:	what does Potato_Head have on ?
+%mor:	pro:int|what mod|do&3S n:prop|Potato_Head v|have adv|on ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	eyes .
+%mor:	n|eye-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	eyes very good .
+%mor:	n|eye-PL adv|very adj|good .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|POSTMOD 4|1|PUNCT
+*MOT:	what's this funny pink thing ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this adj|fun&dn-Y adj|pink n|thing ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*MOT:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	is that eyes ?
+%mor:	cop|be&3S pro:dem|that n|eye-PL ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*CHI:	nose .
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose , very good .
+%mor:	n|nose cm|cm adv|very adj|good .
+%gra:	1|0|INCROOT 2|1|LP 3|4|JCT 4|1|ENUM 5|1|PUNCT
+*MOT:	what is this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	it's a happy smile .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|happy n|smile .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	it's a mouth .
+%mor:	pro:per|it~cop|be&3S det:art|a n|mouth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	mouth .
+%mor:	n|mouth .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	mouth .
+%mor:	n|mouth .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	should we put the purse on ?
+%mor:	mod|should pro:sub|we v|put&ZERO det:art|the n|purse adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	purse on ?
+%mor:	n|purse adv|on ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	put the purse on her arm .
+%mor:	v|put&ZERO det:art|the n|purse prep|on det:poss|her n|arm .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+*MOT:	this is a lady Potato_Head .
+%mor:	pro:dem|this cop|be&3S det:art|a n|lady n:prop|Potato_Head .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|2|PUNCT
+*MOT:	do you want to put the purse on ?
+%mor:	mod|do pro:per|you v|want inf|to v|put&ZERO det:art|the n|purse
+	adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|3|PUNCT
+*MOT:	put it on her arm .
+%mor:	v|put&ZERO pro:per|it prep|on det:poss|her n|arm .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*MOT:	sometimes mommy has a purse too .
+%mor:	adv|sometimes n|mommy v|have&3S det:art|a n|purse adv|too .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh kind of hard .
+%mor:	co|oh n|kind prep|of adj|hard .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*MOT:	she's got a purse .
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a n|purse .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	should we get feet ?
+%mor:	mod|should pro:sub|we v|get n|foot&PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	feet .
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	feet .
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	which feet should we pick ?
+%mor:	pro:rel|which n|foot&PL mod|should pro:sub|we v|pick ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	zip open .
+%mor:	v|zip adj|open .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	oh I shut it .
+%mor:	co|oh pro:sub|I v|shut&ZERO pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	zip open .
+%mor:	v|zip adj|open .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	(0.3) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now it's open .
+%mor:	adv|now pro:per|it~cop|be&3S adj|open .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	what should we get ?
+%mor:	pro:int|what mod|should pro:sub|we v|get ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	hat .
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	there's a hat .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|hat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	oh here's blue fee .
+%mor:	co|oh pro:exist|here~cop|be&3S n|blue n|fee .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*MOT:	(0.6) hat on .
+%mor:	n|hat adv|on .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*MOT:	can you say hat on ?
+%mor:	mod|can pro:per|you v|say n|hat adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	oh okay hat is on .
+%mor:	co|oh co|okay n|hat cop|be&3S adv|on .
+%gra:	1|4|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	should we put the blue feet or green feet ?
+%mor:	mod|should pro:sub|we v|put&ZERO det:art|the adj|blue n|foot&PL
+	coord|or v|green n|foot&PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+*MOT:	which ones ?
+%mor:	pro:rel|which pro:indef|one-PL ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	green or blue ?
+%mor:	n|green coord|or adj|blue ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	blue .
+%mor:	adj|blue .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you wanna put them on ?
+%mor:	pro:per|you v|want~inf|to v|put&ZERO pro:obj|them adv|on ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*MOT:	(0.4) blue feet on .
+%mor:	adj|blue n|foot&PL prep|on .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*MOT:	oh how funny .
+%mor:	co|oh adv:int|how adj|fun&dn-Y .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	Mrs_Potato_Head is all dressed .
+%mor:	n:prop|Mrs_Potato_Head aux|be&3S adv|all part|dress-PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*MOT:	what else does Mrs_Potato_Head need ?
+%mor:	pro:int|what post|else mod|do&3S n:prop|Mrs_Potato_Head v|need ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	does she need tow ears ?
+%mor:	mod|do&3S pro:sub|she v|need n|tow n|ear-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	(0.4) do you wanna put on two ears on Mrs_Potato_Head ?
+%mor:	mod|do pro:per|you v|want~inf|to part|put&PASTP prep|on det:num|two
+	n|ear-PL prep|on n:prop|Mrs_Potato_Head ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|3|PUNCT
+*MOT:	(0.5) do you want a tongue ?
+%mor:	mod|do pro:per|you v|want det:art|a n|tongue ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	here's a tongue .
+%mor:	pro:exist|here~cop|be&3S det:art|a n|tongue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	should we take the mouth off ?
+%mor:	mod|should pro:sub|we v|take det:art|the n|mouth adv|off ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*MOT:	put the tongue on .
+%mor:	v|put&ZERO det:art|the n|tongue adv|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*CHI:	(0.13) off .
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	on .
+%mor:	adv|on .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	do you wanna put the green feet on ?
+%mor:	mod|do pro:per|you v|want~inf|to v|put&ZERO det:art|the adj|green
+	n|foot&PL prep|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|3|PUNCT
+*MOT:	or do you wanna put the tongue ?
+%mor:	coord|or v|do pro:per|you v|want~inf|to v|put&ZERO det:art|the
+	n|tongue ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*MOT:	can you say tongue in ?
+%mor:	mod|can pro:per|you v|say n|tongue adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	tongue in .
+%mor:	n|tongue adv|in .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	good job , David .
+%mor:	adj|good n|job cm|cm n:prop|David .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|LP 4|2|ENUM 5|2|PUNCT
+*MOT:	she looks funny .
+%mor:	pro:sub|she cop|look-3S adj|fun&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	does she want an ear ?
+%mor:	mod|do&3S pro:sub|she v|want det:art|a n|ear ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	two ears .
+%mor:	det:num|two n|ear-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	two ears .
+%mor:	det:num|two n|ear-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	(0.4) one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh it's hard .
+%mor:	co|oh pro:per|it~cop|be&3S adj|hard .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	how many ears does she have ?
+%mor:	adv:int|how qn|many n|ear-PL mod|do&3S pro:sub|she v|have ?
+%gra:	1|3|LINK 2|3|QUANT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*MOT:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	would you like to put on glasses on Mrs_Potato_Head ?
+%mor:	mod|will&COND pro:per|you v|like inf|to v|put&ZERO prep|on
+	n|glass-PL prep|on n:prop|Mrs_Potato_Head ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*MOT:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	&a:h .
+*MOT:	&a:h .
+*CHI:	&a:h .
+*MOT:	what's she doing ?
+%mor:	pro:int|what~aux|be&3S pro:sub|she part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	sticking out tongue .
+%mor:	part|stick-PRESP adv|out n|tongue .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+*MOT:	<should we try> [>] .
+%mor:	mod|should pro:sub|we v|try .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	<calizations> .
+*MOT:	what else do we have ?
+%mor:	pro:int|what post|else mod|do pro:sub|we v|have ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	this has things inside .
+%mor:	pro:dem|this aux|have&3S n|thing-PL adv|inside .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*MOT:	do you want to look ?
+%mor:	mod|do pro:per|you v|want inf|to cop|look ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*CHI:	(0.18) shake out .
+%mor:	v|shake adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	shake out .
+%mor:	v|shake adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh hard .
+%mor:	co|oh adv|hard .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	(0.6) more eyes .
+%mor:	qn|more n|eye-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	glasses off .
+%mor:	n|glass-PL adv|off .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	purple eyes off .
+%mor:	adj|purple n|eye-PL prep|off .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*MOT:	eyes on .
+%mor:	v|eye-3S adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	on .
+%mor:	adv|on .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now it's Mr_Potato_Head .
+%mor:	adv|now pro:per|it~cop|be&3S n:prop|Mr_Potato_Head .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	can you turn the glasses upside down ?
+%mor:	mod|can pro:per|you v|turn det:art|the n|glass-PL adv|upside
+	adv|down ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|3|PUNCT
+*MOT:	(0.9) good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	yellow glasses .
+%mor:	adj|yellow n|glass-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	his eyes are big .
+%mor:	det:poss|his n|eye-PL cop|be&PRES adj|big .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	can you make your eyes big ?
+%mor:	mod|can pro:per|you v|make det:poss|your n|eye-PL adj|big ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|POSTMOD 7|3|PUNCT
+*MOT:	big eyes .
+%mor:	adj|big n|eye-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	can you say big eyes ?
+%mor:	mod|can pro:per|you v|say adj|big n|eye-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	big eye .
+%mor:	adj|big n|eye .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	does mama have big eyes ?
+%mor:	mod|do&3S n|mama v|have adj|big n|eye-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	does David have big eyes ?
+%mor:	mod|do&3S n:prop|David v|have adj|big n|eye-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	should we get all these out ?
+%mor:	mod|should pro:sub|we v|get qn|all pro:dem|these adv|out ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*MOT:	out .
+%mor:	adv|out .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	oh lots_of toys in here .
+%mor:	co|oh qn|lots_of n|toy-PL prep|in adv|here .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	toys .
+%mor:	n|toy-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	lots_of toys .
+%mor:	qn|lots_of n|toy-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	hat for David .
+%mor:	n|hat prep|for n:prop|David .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	too little .
+%mor:	adv|too adj|little .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look at all the things .
+%mor:	cop|look prep|at qn|all det:art|the n|thing-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|1|PUNCT
+*MOT:	should we make a mommy ?
+%mor:	mod|should pro:sub|we v|make det:art|a n|mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	do you want to make a mommy Potato_Head ?
+%mor:	mod|do pro:per|you v|want inf|to v|make det:art|a n|mommy
+	n:prop|Potato_Head ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|7|APP
+	9|3|PUNCT
+*MOT:	here's dayy Potato_Head .
+%mor:	pro:exist|here~aux|be&3S adj|day&dn-Y n:prop|Potato_Head .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|APP 5|3|PUNCT
+*CHI:	back+pack .
+%mor:	n|+n|back+n|pack .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh that's right .
+%mor:	co|oh pro:dem|that~cop|be&3S n|right .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	that's the purse .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|purse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	it [>] looks like a back+pack .
+%mor:	pro:per|it cop|look-3S prep|like det:art|a n|+n|back+n|pack .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	<back+pack> [<] .
+%mor:	n|+n|back+n|pack .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	but it's a purse .
+%mor:	conj|but pro:per|it~cop|be&3S det:art|a n|purse .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	purse .
+%mor:	n|purse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	should we put <that one> [>] on Mrs_Potato_Head ?
+%mor:	mod|should pro:sub|we v|put&ZERO pro:dem|that pro:indef|one prep|on
+	n:prop|Mrs_Potato_Head ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	xxx [<] .
+*MOT:	first Mrs_Potato_Head needs some feet so she can stand up .
+%mor:	adv|first n:prop|Mrs_Potato_Head v|need-3S qn|some n|foot&PL
+	conj|so pro:sub|she mod|can v|stand adv|up .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|9|JCT 11|3|PUNCT
+*MOT:	where's her fee ?
+%mor:	adv:int|where~cop|be&3S det:poss|her n|fee ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	back+pack .
+%mor:	n|+n|back+n|pack .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<I can't> [/?] I can't put her back+pack on until she has arms .
+%mor:	pro:sub|I mod|can~neg|not v|put&ZERO det:poss|her n|+n|back+n|pack
+	adv|on prep|until pro:sub|she aux|have&3S n|arm-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|11|SUBJ 10|11|AUX 11|8|POBJ 12|4|PUNCT
+*MOT:	and she has_to have feet or she^ll just fall down .
+%mor:	coord|and pro:sub|she mod:aux|has_to v|have n|foot&PL coord|or
+	n|shell adj|just n|fall adv|down .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|9|MOD 8|9|MOD
+	9|6|COORD 10|9|NJCT 11|4|PUNCT
+*CHI:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you want her to stand up .
+%mor:	pro:per|you v|want pro:obj|her inf|to v|stand adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|JCT 7|2|PUNCT
+*MOT:	say stand up .
+%mor:	co|say v|stand adv|up .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	she needs feet .
+%mor:	pro:sub|she v|need-3S n|foot&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	she says David can I have feet please .
+%mor:	pro:sub|she v|say-3S n:prop|David mod|can pro:sub|I v|have
+	n|foot&PL co|please .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|2|COMP 7|6|OBJ 8|6|COM
+	9|2|PUNCT
+*CHI:	xxx .
+*MOT:	I think the feet are right there .
+%mor:	pro:sub|I v|think det:art|the n|foot&PL aux|be&PRES adv|right
+	adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|7|JCT 7|5|JCT 8|2|PUNCT
+@End

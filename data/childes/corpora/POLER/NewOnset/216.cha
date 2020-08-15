@@ -1,0 +1,172 @@
+@UTF8
+@PID:	11312/c-00041733-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 216 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|5;4.|female|New_Onset||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	216, audio
+*INV:	xxx .
+%com:	Experimenter said the name of the child .
+*CHI:	okay &-um <&pup> [//] they are sitting .
+%mor:	adj|okay pro:sub|they aux|be&PRES part|sit-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	turn the page . 1_16306
+%mor:	v|turn det:art|the n|page .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	they fall asleep .
+%mor:	pro:sub|they v|fall adv|asleep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%xnar:	$sg=ie1
+%xcoh:	$sg=lex
+*CHI:	froggie jump [* syn] up .
+%mor:	n|frog-DIM v|jump adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	when they woke up the froggie was gone . 16306_26507
+%mor:	conj|when pro:sub|they v|wake&PAST adv|up det:art|the n|frog-DIM
+	aux|be&PAST&13S part|go&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|3|PUNCT
+%xnar:	$sg=ie1; $sg=ie5
+%xsyn:	$sg=ccu, $sg=whc
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	they say [* syn] fro:ggie . 26507_38096
+%mor:	pro:sub|they v|say n|frog-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	a puppy got stuck in a jar trying to get it out .
+%mor:	det:art|a n|puppy aux|get&PAST part|stick&PASTP prep|in det:art|a
+	n|jar part|try-PRESP inf|to v|get pro:per|it adv|out .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|XJCT
+	9|10|INF 10|8|XCOMP 11|10|OBJ 12|10|JCT 13|4|PUNCT
+%com:	child means stuck when he says "stopped up" ?
+*CHI:	the puppy fall [* syn] out the window . 38096_45901
+%mor:	det:art|the n|puppy v|fall prep|out det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	he got outside . 45901_48617
+%mor:	pro:sub|he v|get&PAST adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	he got mad .
+%mor:	pro:sub|he v|get&PAST adj|mad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	and puppy licked him . 48617_53946
+%mor:	coord|and n|puppy v|lick-PAST pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xcoh:	$sg=lex, $sg=ref
+*CHI:	he said fro:ggie . 53946_59556
+%mor:	pro:sub|he v|say&PAST n|frog-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	the puppy saw bees . 59556_63884
+%mor:	det:art|the n|puppy v|see&PAST n|bee-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	they looked and looked . 63884_72022
+%mor:	pro:sub|they cop|look-PAST coord|and cop|look-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%xnar:	$sg=a3
+%xcoh:	$sg=ref
+*CHI:	they said froggie are you down there ?
+%mor:	pro:sub|they v|say&PAST n|frog-DIM aux|be&PRES pro:per|you adv|down
+	adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|JCT 7|2|JCT 8|2|PUNCT
+%xnar:	$sg=a4
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	there [* syn] no froggie here ! 72022_76262
+%mor:	adv|there qn|no n|frog-DIM adv|here !
+%gra:	1|3|JCT 2|3|QUANT 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	a puppy knock [* syn] a [*] bees down in a thing [* sem] . 76262_86011
+%mor:	det:art|a n|puppy n|knock det:art|a n|bee-PL adv|down prep|in
+	det:art|a n|thing .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|5|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	xxx say [* syn] fro:ggie . 86011_94585
+%mor:	v|say n|frog-DIM .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%xnar:	$sg=a5
+%xcoh:	$sg=lex
+*CHI:	there [* syn] no froggie here . 94585_96947
+%mor:	adv|there qn|no n|frog-DIM adv|here .
+%gra:	1|3|JCT 2|3|QUANT 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=lex
+*CHI:	the puppy will run away to [* syn] the bees who were after him . 96947_104499
+%mor:	det:art|the n|puppy mod|will part|run&PASTP adv|away prep|to
+	det:art|the n|bee-PL pro:rel|who cop|be&PAST prep|after pro:obj|him
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|11|POBJ 13|4|PUNCT
+%xsyn:	$sg=ccu, $sg=rel
+%xcoh:	$sg=lex, $sg=lex
+*CHI:	he said fro:ggie are you there ? 115818_118892
+%mor:	pro:sub|he v|say&PAST n|frog-DIM aux|be&PRES pro:per|you adv|there
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|JCT 7|2|PUNCT
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	+" no where are you here [* syn] ? 118892_121278
+%mor:	co|no adv:int|where aux|be&PRES pro:per|you adv|here ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	<&d> [//] a [* syn] owl here .
+%mor:	det:art|a n|owl adv|here .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*CHI:	he went on a deer and covered him [* syn] eyes .
+%mor:	pro:sub|he v|go&PAST prep|on det:art|a n|deer coord|and
+	v|cover-PAST pro:obj|him n|eye-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|OBJ
+	9|7|OBJ 10|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	puppy went away . 121278_137438
+%mor:	n|puppy v|go&PAST adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%xcoh:	$sg=lex
+*CHI:	xxx turn the page .
+%mor:	v|turn det:art|the n|page .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	so they fall [* syn] down . 137438_150699
+%mor:	co|so pro:sub|they v|fall adv|down .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref
+*CHI:	and <they went in a> [//] they fell in a pond . 150699_155293
+%mor:	coord|and pro:sub|they v|fall&PAST prep|in det:art|a n|pond .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref_retrace, $sg=ref
+*CHI:	and <pu^ppy hear [* syn] the sound> [//] they hear the sound . 155293_171352
+%mor:	coord|and pro:sub|they v|hear det:art|the n|sound .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=conj, $sg=lex_retrace, $sg=ref
+*CHI:	<and they said sh> [//] he said shh . 171352_175148
+%mor:	pro:sub|he v|say&PAST co|shh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%xcoh:	$sg=conj_retrace, $sg=ref_retrace, $sg=ref
+*CHI:	<they looked underneath in the two> [//] they xxx . 175148_183893
+%mor:	pro:sub|they .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xcoh:	$sg=ref_retrace, $sg=ref
+*CHI:	then they found two frogs . 183893_190022
+%mor:	adv:tem|then pro:sub|they v|find&PAST det:num|two n|frog-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=lex
+*CHI:	so they got down . 190022_197238
+%mor:	co|so pro:sub|they v|get&PAST adv|down .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and they said where are [* syn] other one ? 197238_201266
+%mor:	coord|and pro:sub|they v|say&PAST pro:rel|where cop|be&PRES
+	qn|other pro:indef|one ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|LINK 5|3|COMP 6|7|QUANT 7|5|PRED
+	8|3|PUNCT
+%xcoh:	$sg=conj, $sg=ref, $sg=subs
+*CHI:	+" found one ! 201266_204125
+%mor:	v|found pro:indef|one !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%xnar:	$sg=o
+%xcoh:	$sg=lex
+*CHI:	and the end . 204150_208246
+%mor:	coord|and det:art|the n|end .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%xcoh:	$sg=conj
+@End

@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/c-00041710-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 146 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|7;7.|female|New_Onset_Match||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	146, audio
+*CHI:	frog where are you ? 1_2288
+%mor:	n|frog pro:rel|where aux|be&PRES pro:per|you ?
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|1|PUNCT
+%xnar:	$sg=s1
+*CHI:	I like frog . 2288_8275
+%mor:	pro:sub|I v|like n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	frog got out of his &-um jar when I was sleeping . 8275_19293
+%mor:	n|frog v|get&PAST adv|out prep|of det:poss|his n|jar conj|when
+	pro:sub|I aux|be&PAST&13S part|sleep-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|MOD 6|4|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|2|CJCT 11|2|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=lex; $sg=ref
+%xnar:	$sg=ie1; $sg=ie2
+*CHI:	when I woke up I did not see him in the jar . 19293_23901
+%mor:	conj|when pro:sub|I v|wake&PAST adv|up pro:sub|I mod|do&PAST
+	neg|not v|see pro:obj|him prep|in det:art|the n|jar .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|PUNCT
+%xsyn:	$sg=ccu; $sg=whc
+%xcoh:	$sg=ref; $sg=ref
+%xnar:	$sg=ie3; $sg=ie4; $sg=ie5
+*CHI:	I looked all over for him . 23901_26708
+%mor:	pro:sub|I cop|look-PAST adv|all prep|over prep|for pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|POBJ 7|2|PUNCT
+%xcoh:	$sg=ref; $sg=ref
+%xnar:	$sg=a1
+*CHI:	I called for frog everywhere . 26708_30139
+%mor:	pro:sub|I v|call-PAST prep|for n|frog adv|everywhere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+%xcoh:	$sg=ref; $sg=lex
+*CHI:	my dog put his head in the jar and got stuck and fell out of the
+	window . 30139_39429
+%mor:	det:poss|my n|dog v|put&ZERO det:poss|his n|head prep|in
+	det:art|the n|jar coord|and v|get&PAST v|stick&PAST coord|and
+	v|fall&PAST adv|out prep|of det:art|the n|window .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|9|COORD 11|10|OBJ 12|3|CONJ 13|12|COORD 14|13|JCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*CHI:	I looked for frog in the woods in a hole in a tree .
+%mor:	pro:sub|I cop|look-PAST prep|for n|frog prep|in det:art|the
+	n|wood-PL prep|in det:art|a n|hole prep|in det:art|a n|tree .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|JCT
+	9|10|DET 10|8|POBJ 11|2|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+%xcoh:	$sg=ref; $sg=lex
+%xnar:	$sg=a5
+%com:	This might be better coded as if "in a hole" and "in a tree" are
+	each a C-unit . The long pauses suggest to me that the child is
+	describing 3 different searching behaviors in this line .
+*CHI:	and my dog looked in a beehive . 39429_59438
+%mor:	coord|and det:poss|my n|dog cop|look-PAST prep|in det:art|a
+	n|beehive .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+*CHI:	but he got stung by a bee . 59438_62079
+%mor:	conj|but pro:sub|he aux|get&PAST part|sting&PASTP prep|by det:art|a
+	n|bee .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%xcoh:	$sg=conj; $sg=ref; $sg=lex
+*CHI:	I looked in [*] owl hole by accident .
+%mor:	pro:sub|I cop|look-PAST prep|in n|owl n|hole prep|by n|accident .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|JCT 7|6|POBJ 8|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	the owl came after me . 62079_69715
+%mor:	det:art|the n|owl v|come&PAST prep|after pro:obj|me .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%xcoh:	$sg=lex; $sg=ref
+*CHI:	but luckily I got away before he came and got me . 69715_74402
+%mor:	conj|but adv|luck&dadj-Y-LY pro:sub|I v|get&PAST adv|away
+	prep|before pro:sub|he v|come&PAST coord|and v|get&PAST pro:obj|me .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|SUBJ 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|10|OBJ 12|4|PUNCT
+%xsyn:	$sg=ccu; $sg=vpc
+%com:	not sure if this is a ccu or what kind if it is
+%xcoh:	$sg=conj; $sg=ref; $sg=ref
+*CHI:	we ran into a deer . 74402_77833
+%mor:	pro:sub|we v|run&PAST prep|into det:art|a n|deer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	the deer threw us in the water . 77833_80314
+%mor:	det:art|the n|deer v|throw&PAST pro:obj|us prep|in det:art|the
+	n|water .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%xcoh:	$sg=lex; $sg=ref
+*CHI:	we swam to look for frog . 80314_85028
+%mor:	pro:sub|we v|swim&PAST inf|to cop|look prep|for n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%xcoh:	$sg=ref; $sg=lex
+%xnar:	$sg=g1
+*CHI:	luckily we found frog . 85028_88273
+%mor:	adv|luck&dadj-Y-LY pro:sub|we v|find&PAST n|frog .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xcoh:	$sg=ref; $sg=lex
+%xnar:	$sg=o
+*CHI:	but we had to be quiet or he would jump away . 88273_95073
+%mor:	conj|but pro:sub|we v|have&PAST inf|to cop|be n|quiet coord|or
+	pro:sub|he mod|will&COND v|jump adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|PRED 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CJCT 11|10|JCT 12|3|PUNCT
+%com:	this might be a ccu ...
+%xcoh:	$sg=conj; $sg=ref; $sg=ref
+*CHI:	we found him and his mom and dad in a frog hole [*] . 95073_100277
+%mor:	pro:sub|we v|find&PAST pro:obj|him coord|and det:poss|his n|mom
+	coord|and n|dad prep|in det:art|a n|frog n|hole .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|6|MOD 6|4|COORD 7|6|CONJ 8|7|COORD
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|2|PUNCT
+%xcoh:	$sg=ref; $sg=ref
+*CHI:	<we said &g> [//] <they> [//] he said goodbye to his friends and
+	family . 100277_107286
+%mor:	pro:sub|he v|say&PAST co|goodbye prep|to det:poss|his n|friend-PL
+	coord|and n|family .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|MOD 6|4|POBJ 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+%xcoh:	$sg=ref_retrace; $sg=ref_retrace; $sg=ref; $sg=lex
+%com:	counted "family" as a lexical tie to "his mom and dad" from above
+*CHI:	and he went home again .
+%mor:	coord|and pro:sub|he v|go&PAST adv|home adv|again .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+%xcoh:	$sg=conj; $sg=ref
+*CHI:	that's the end . 107286_111146
+%mor:	pro:dem|that~cop|be&3S det:art|the n|end .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@End

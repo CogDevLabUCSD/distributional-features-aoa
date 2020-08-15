@@ -1,0 +1,374 @@
+@UTF8
+@PID:	11312/c-00015909-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother , FAT Father
+@ID:	eng|Cornell|MOT|||||Mother|||
+@ID:	eng|Cornell|FAT|||||Father|||
+@Comment:	Mother ID 1 , talking to Father ID 4. These are JOHNNIE'S PARENTS Text Source: same as in MOM16. This sample shows if Johnnie's mother uses same low pitch to an adult (her husband) as she uses to her 3 year old son .
+@Warning:	INVOKED THE REPETITION RULE. i.e. when an uncommon word (here vegetable) is used repeatedly (more than 5x) then instances beyond 5 are marked with the equal sign.
+*MOT:	look , when you go to get groceries , let the boys xxx .
+%mor:	co|look cm|cm conj|when pro:per|you v|go inf|to v|get n|grocery-PL
+	cm|cm v|let&ZERO det:art|the n|boy-PL .
+%gra:	1|0|INCROOT 2|1|LP 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|7|LP 10|7|COMP 11|12|DET 12|10|OBJ 13|1|PUNCT
+*FAT:	who says I'm gonna get groceries .
+%mor:	pro:int|who v|say-3S pro:sub|I~aux|be&1S mod:aux|gonna v|get
+	n|grocery-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|AUX 6|2|COMP 7|6|OBJ 8|2|PUNCT
+*FAT:	you can get groceries yourself .
+%mor:	pro:per|you mod|can v|get n|grocery-PL pro:refl|yourself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|COMP 6|3|PUNCT
+*FAT:	xxx my own party .
+%mor:	det:poss|my adj|own n|party .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	you can do them , while I get the stuff for the party .
+%mor:	pro:per|you mod|can v|do pro:obj|them cm|cm conj|while pro:sub|I
+	v|get det:art|the n|stuff prep|for det:art|the n|party .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|LP 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*FAT:	you're gonna get the same thing anyway .
+%mor:	pro:per|you~aux|be&PRES mod:aux|gonna v|get det:art|the adj|same
+	n|thing adv|anyway .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|4|PUNCT
+*FAT:	xxx you can get groceries .
+%mor:	pro:per|you mod|can v|get n|grocery-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	xxx that other week , you know , when I was sick .
+%mor:	pro:dem|that qn|other n|week cm|cm pro:per|you v|know cm|cm
+	adv:int|when pro:sub|I cop|be&PAST&13S adj|sick .
+%gra:	1|3|DET 2|3|QUANT 3|6|LINK 4|3|LP 5|6|SUBJ 6|0|ROOT 7|6|LP 8|10|LINK
+	9|10|SUBJ 10|6|COMP 11|10|PRED 12|6|PUNCT
+*MOT:	you ain't sick now .
+%mor:	pro:per|you aux|be&1S~neg|not adj|sick adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*FAT:	I ain't gonna xxx this week , though .
+%mor:	pro:sub|I aux|be&1S~neg|not mod:aux|gonna pro:dem|this n|week cm|cm
+	adv|though .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|LP 8|4|JCT
+	9|4|PUNCT
+*MOT:	well , you can go there and just get vegetables .
+%mor:	co|well cm|cm pro:per|you mod|can v|go adv|there coord|and adv|just
+	v|get n|vegetable-PL .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|CONJ 8|9|JCT
+	9|7|COORD 10|9|OBJ 11|5|PUNCT
+*MOT:	you can go to Mike's and get vegetables there .
+%mor:	pro:per|you mod|can v|go prep|to n:prop|Mike~poss|s coord|and v|get
+	n|vegetable-PL adv|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|POSS 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|3|PUNCT
+*FAT:	can't get no vegetables over there .
+%mor:	mod|can~neg|not v|get qn|no n|vegetable-PL adv|over adv|there .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|JCT 7|3|JCT 8|3|PUNCT
+*FAT:	you know that .
+%mor:	pro:per|you v|know pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	I said get vegetables at the xxx and drop me off .
+%mor:	pro:sub|I v|say&PAST v|get n|vegetable-PL prep|at det:art|the
+	coord|and v|drop pro:obj|me adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|6|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|2|PUNCT
+*FAT:	xxx A_and_P xxx , honey .
+%mor:	n:prop|A_and_P cm|cm n|honey .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*FAT:	you know that .
+%mor:	pro:per|you v|know pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	we don't get no vegetables xxx .
+%mor:	pro:sub|we mod|do~neg|not v|get qn|no n|vegetable-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*MOT:	we've got_to have some vegetables .
+%mor:	pro:sub|we~aux|have mod:aux|got_to v|have qn|some n|vegetable-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*MOT:	if I go in the dime store , it's gonna take me a good while to get
+	that stuff .
+%mor:	conj|if pro:sub|I v|go prep|in det:art|the n|dime n|store cm|cm
+	pro:per|it~aux|be&3S mod:aux|gonna v|take pro:obj|me det:art|a
+	adj|good n|while inf|to v|get pro:dem|that n|stuff .
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|LP
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|0|ROOT 13|12|OBJ 14|16|DET 15|16|MOD
+	16|12|OBJ 17|18|INF 18|16|XMOD 19|20|DET 20|18|OBJ 21|12|PUNCT
+*FAT:	know what you got , there ?
+%mor:	v|know pro:int|what pro:per|you v|get&PAST cm|cm adv|there ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|4|LP 6|4|JCT 7|1|PUNCT
+*FAT:	all you have_to do is go down and pick yourself a little xxx .
+%mor:	pro:indef|all pro:per|you mod:aux|have_to v|do cop|be&3S v|go
+	adv|down coord|and v|pick pro:refl|yourself det:art|a adj|little .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|9|OBJ 11|12|DET 12|10|PRED 13|6|PUNCT
+*MOT:	&aw , you can always , just pick it up and come on out .
+%mor:	cm|cm pro:per|you mod|can adv|always cm|cm adv|just v|pick
+	pro:per|it adv|up coord|and v|come adv|on adv|out .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|JCT 5|4|LP 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|7|CONJ 11|10|COORD 12|11|JCT 13|11|JCT 14|7|PUNCT
+*MOT:	you have_to change your pants .
+%mor:	pro:per|you mod:aux|have_to v|change det:poss|your n:pt|pants .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	you can't get a xxx .
+%mor:	pro:per|you mod|can~neg|not v|get det:art|a .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	you think I'm gonna go up there with you .
+%mor:	pro:per|you v|think pro:sub|I~aux|be&1S mod:aux|gonna v|go adv|up
+	adv|there prep|with pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|AUX 6|2|COMP 7|6|JCT 8|6|JCT
+	9|6|JCT 10|9|POBJ 11|2|PUNCT
+*FAT:	how you figure I'm gonna xxx .
+%mor:	adv:int|how pro:per|you v|figure pro:sub|I~aux|be&1S mod:aux|gonna
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|3|PUNCT
+*MOT:	all you've got_to do is go in and get xxx .
+%mor:	qn|all pro:per|you~aux|have mod:aux|got_to v|do cop|be&3S v|go
+	adv|in coord|and v|get .
+%gra:	1|2|QUANT 2|5|SUBJ 3|5|AUX 4|5|AUX 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|7|PUNCT
+*FAT:	I'm gonna give you the money to but groceries , and you buy
+	everything for that party , and .
+%mor:	pro:sub|I~aux|be&1S mod:aux|gonna v|give pro:per|you det:art|the
+	n|money prep|to conj|but n|grocery-PL cm|cm coord|and pro:per|you
+	v|buy pro:indef|everything prep|for pro:dem|that n|party cm|cm
+	coord|and .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|COORD 11|10|LP 12|9|COORD 13|14|SUBJ 14|7|CMOD 15|14|OBJ
+	16|14|JCT 17|18|DET 18|16|POBJ 19|14|LP 20|14|COORD 21|4|PUNCT
+*MOT:	xxx , A_and_P .
+%mor:	cm|cm n:prop|A_and_P .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*MOT:	I just want some vegetables .
+%mor:	pro:sub|I adv|just v|want qn|some n|vegetable-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*FAT:	you buy groceries and get the stuff for the party , and that's
+	final .
+%mor:	pro:per|you v|buy n|grocery-PL coord|and v|get det:art|the n|stuff
+	prep|for det:art|the n|party cm|cm coord|and pro:dem|that~cop|be&3S
+	adj|final .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|LP 12|7|CONJ 13|14|SUBJ 14|12|COORD 15|14|PRED
+	16|2|PUNCT
+*FAT:	xxx and I ain't going .
+%mor:	coord|and pro:sub|I aux|be&1S~neg|not part|go-PRESP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*FAT:	I ain't gonna do it .
+%mor:	pro:sub|I aux|be&1S~neg|not mod:aux|gonna v|do pro:per|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	I ain't gonna do none of it now .
+%mor:	pro:sub|I aux|be&1S~neg|not mod:aux|gonna v|do pro:indef|none
+	prep|of pro:per|it adv|now .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|AUX 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|5|JCT 10|5|PUNCT
+*MOT:	you can go to Mikes and get the meat .
+%mor:	pro:per|you mod|can v|go prep|to n:prop|Mikes coord|and v|get
+	det:art|the n|meat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*FAT:	I can go to zzz and get Roddy's cake tomorrow morning .
+%mor:	pro:sub|I mod|can v|go prep|to co|zzz coord|and v|get
+	n:prop|Roddy~poss|s n|cake adv:tem|tomorrow n|morning .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|10|MOD
+	9|8|POSS 10|7|OBJ 11|12|MOD 12|10|OBJ 13|3|PUNCT
+*MOT:	go and get meat .
+%mor:	v|go coord|and v|get n|meat .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+*MOT:	I've got_to come back home and wash and everything .
+%mor:	pro:sub|I~aux|have mod:aux|got_to v|come adv|back n|home coord|and
+	n|wash coord|and pro:indef|everything .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|CONJ 10|9|COORD 11|4|PUNCT
+*MOT:	you can just go to Mike's and get the meat .
+%mor:	pro:per|you mod|can adv|just v|go prep|to n:prop|Mike~poss|s
+	coord|and v|get det:art|the n|meat .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|POSS 8|4|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|4|PUNCT
+*MOT:	I ain't worried much about all that other stuff .
+%mor:	pro:sub|I aux|be&1S~neg|not v|worry-PAST adv|much prep|about qn|all
+	pro:dem|that qn|other n|stuff .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|QUANT 8|10|DET
+	9|10|QUANT 10|6|POBJ 11|4|PUNCT
+*MOT:	I just want to get some vegetables there , xxx come back and wash .
+%mor:	pro:sub|I adv|just v|want inf|to v|get qn|some n|vegetable-PL
+	adv|there cm|cm v|come n|back coord|and n|wash .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|QUANT 7|5|OBJ 8|10|JCT
+	9|10|SUBJ 10|5|COMP 11|10|OBJ 12|10|CONJ 13|12|COORD 14|3|PUNCT
+*MOT:	and clean up .
+%mor:	coord|and v|clean adv|up .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	how much money did you say there is ?
+%mor:	adv:int|how adv|much n|money v|do&PAST pro:per|you v|say adv|there
+	cop|be&3S ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|6|JCT
+	9|4|PUNCT
+*FAT:	twenty five , forty five .
+%mor:	det:num|twenty det:num|five cm|cm det:num|forty det:num|five .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|LP 4|5|QUANT 5|2|ENUM 6|2|PUNCT
+*MOT:	xxx twenty .
+%mor:	det:num|twenty .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and a ten .
+%mor:	coord|and det:art|a det:num|ten .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*FAT:	now , you can buy xxx .
+%mor:	adv|now cm|cm pro:per|you mod|can v|buy .
+%gra:	1|5|JCT 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*FAT:	get the meat .
+%mor:	v|get det:art|the n|meat .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FAT:	what are you , where are you gonna get the meat .
+%mor:	pro:int|what aux|be&PRES pro:per|you cm|cm pro:rel|where
+	aux|be&PRES pro:per|you mod:aux|gonna v|get det:art|the n|meat .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|LP 5|9|LINK 6|9|AUX 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|3|PUNCT
+*MOT:	xxx go by Pete's and get it .
+%mor:	v|go prep|by n:prop|Pete~poss|s coord|and v|get pro:per|it .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|POSS 5|1|CONJ 6|5|COORD 7|6|OBJ 8|1|PUNCT
+*MOT:	well I , I'm out_of everything .
+%mor:	co|well pro:sub|I cm|cm pro:sub|I~cop|be&1S prep|out_of
+	pro:indef|everything .
+%gra:	1|5|COM 2|5|JCT 3|2|LP 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*MOT:	xxx buy everything .
+%mor:	v|buy pro:indef|everything .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	eggs , sugar , corn meal , oleo , huh ?
+%mor:	n|egg-PL cm|cm n|sugar cm|cm n|corn n|meal cm|cm n|oleo cm|cm
+	co|huh ?
+%gra:	1|6|MOD 2|1|LP 3|6|MOD 4|3|LP 5|6|MOD 6|0|ROOT 7|6|LP 8|6|ENUM 9|8|LP
+	10|6|COM 11|6|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I can get them cheaper at Mike's .
+%mor:	pro:sub|I mod|can v|get pro:obj|them adj|cheap-CP prep|at
+	n:prop|Mike~poss|s .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PRED 6|5|JCT 7|6|POBJ 8|7|POSS
+	9|3|PUNCT
+*MOT:	potatoes ?
+%mor:	n|potato-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I was just gonna get a xxx box of potato chips , But that's all
+	right .
+%mor:	pro:sub|I cop|be&PAST&13S adv|just mod:aux|gonna v|get det:art|a
+	n|box prep|of n|potato n|chip-PL cm|cm n:prop|But
+	pro:dem|that~cop|be&3S pro:indef|all n|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|AUX 5|2|PRED 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|7|LP 12|14|SUBJ 13|14|SUBJ 14|7|XMOD 15|16|MOD
+	16|14|PRED 17|2|PUNCT
+*MOT:	xxx and stuff like that .
+%mor:	coord|and n|stuff prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*FAT:	well , give me five dollars then , kiddo .
+%mor:	co|well cm|cm v|give pro:obj|me det:num|five n|dollar-PL
+	adv:tem|then cm|cm n|kiddo .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|QUANT 6|9|MOD 7|9|JCT 8|7|LP
+	9|3|OBJ 10|3|PUNCT
+*FAT:	you take fifteen and I take fifteen and I go up here .
+%mor:	pro:per|you v|take det:num|fifteen coord|and pro:sub|I v|take
+	det:num|fifteen coord|and pro:sub|I v|go adv|up adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|COMP 7|6|OBJ 8|6|CONJ
+	9|10|SUBJ 10|8|COORD 11|10|JCT 12|10|JCT 13|2|PUNCT
+*FAT:	xxx got_to have meat .
+%mor:	mod:aux|got_to v|have n|meat .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	you know meat cost more than just that little xxx stuff there .
+%mor:	pro:per|you v|know n|meat part|cost&PASTP qn|more prep|than
+	adj|just pro:rel|that adj|little n|stuff adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|XJCT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|10|MOD
+	9|10|MOD 10|7|CMOD 11|10|JCT 12|2|PUNCT
+*MOT:	well , take it !
+%mor:	co|well cm|cm v|take pro:per|it !
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|OBJ 5|1|PUNCT
+*FAT:	you know that , every time I go buy meat , you know , I ain't got
+	but fifteen , twenty dollars xxx meat .
+%mor:	pro:per|you v|know pro:dem|that cm|cm qn|every n|time pro:sub|I
+	v|go n|buy n|meat cm|cm pro:per|you v|know cm|cm pro:sub|I
+	aux|be&1S~neg|not v|get&PAST conj|but det:num|fifteen cm|cm
+	det:num|twenty n|dollar-PL n|meat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|LP 5|6|QUANT 6|2|OBJ 7|10|SUBJ 8|10|MOD
+	9|10|MOD 10|6|XMOD 11|10|LP 12|13|SUBJ 13|10|CMOD 14|13|LP 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|13|COMP 19|18|CONJ 20|24|QUANT 21|20|LP 22|23|QUANT
+	23|24|MOD 24|19|COORD 25|2|PUNCT
+*FAT:	xxx you're always out .
+%mor:	pro:per|you~aux|be&PRES adv|always adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*FAT:	you're always out_of everything .
+%mor:	pro:per|you~cop|be&PRES adv|always prep|out_of pro:indef|everything
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	soap .
+%mor:	n|soap .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	well , what do you xxx .
+%mor:	co|well cm|cm pro:int|what mod|do pro:per|you .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|5|AUX 5|3|OBJ 6|1|PUNCT
+*MOT:	xxx soap and Comet and stuff like that .
+%mor:	n|soap coord|and n:prop|Comet coord|and n|stuff prep|like
+	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*FAT:	well , that's the same thing .
+%mor:	co|well cm|cm pro:dem|that~cop|be&3S det:art|the adj|same n|thing .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*FAT:	I thought they're all the same .
+%mor:	pro:sub|I v|think&PAST pro:sub|they~aux|be&PRES adv|all det:art|the
+	adj|same .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|DET 7|2|JCT 8|2|PUNCT
+*FAT:	I know , I know , I been going up there all the time buying .
+%mor:	pro:sub|I v|know cm|cm pro:sub|I v|know cm|cm pro:sub|I
+	aux|be&PASTP part|go-PRESP adv|up adv|there qn|all det:art|the
+	n|time part|buy-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|5|SUBJ 5|2|CJCT 6|5|LP 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|JCT 11|9|JCT 12|14|QUANT 13|14|DET 14|9|OBJ 15|14|XMOD
+	16|2|PUNCT
+*FAT:	I should know .
+%mor:	pro:sub|I mod|should v|know .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*FAT:	why .
+%mor:	adv:int|why .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I didn't go xxx .
+%mor:	pro:sub|I mod|do&PAST~neg|not v|go .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*FAT:	xxx worrying about how much money there is .
+%mor:	part|worry-PRESP prep|about adv:int|how qn|much n|money adv|there
+	cop|be&3S .
+%gra:	1|0|INCROOT 2|1|JCT 3|7|LINK 4|5|QUANT 5|7|JCT 6|7|SUBJ 7|2|POBJ
+	8|1|PUNCT
+*MOT:	xxx spending more than ten dollars .
+%mor:	part|spend-PRESP qn|more prep|than det:num|ten n|dollar-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|5|QUANT 5|3|POBJ 6|1|PUNCT
+*MOT:	alright , let's scratch the eggs off .
+%mor:	co|alright cm|cm v|let~pro:obj|us v|scratch det:art|the n|egg-PL
+	adv|off .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|1|PUNCT
+*FAT:	well , Okay .
+%mor:	co|well cm|cm n:prop|Okay .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*FAT:	if there's more , then , you put the rest of it and I'll give it to
+	you just when you come back here .
+%mor:	conj|if pro:exist|there~cop|be&3S adv|more cm|cm adv:tem|then cm|cm
+	pro:per|you v|put&ZERO det:art|the n|rest prep|of pro:per|it
+	coord|and pro:sub|I~mod|will v|give pro:per|it prep|to pro:per|you
+	adv|just conj|when pro:per|you v|come adv|back adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|LP 6|9|JCT 7|6|LP 8|9|SUBJ
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|11|NJCT 13|12|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|9|CJCT 18|17|OBJ 19|17|JCT 20|19|POBJ 21|17|JCT 22|24|LINK
+	23|24|SUBJ 24|17|CJCT 25|24|JCT 26|24|JCT 27|3|PUNCT
+*FAT:	I'll walk up to Mike's and get the , get the meat .
+%mor:	pro:sub|I~mod|will v|walk adv|up prep|to n:prop|Mike~poss|s
+	coord|and v|get det:art|the cm|cm v|get det:art|the n|meat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|6|POSS 8|3|CONJ
+	9|8|COORD 10|11|DET 11|12|SUBJ 12|9|COMP 13|14|DET 14|12|OBJ 15|3|PUNCT
+*MOT:	xxx , ain't nothing to harp about or get mad about .
+%mor:	cm|cm aux|be&1S~neg|not pro:indef|nothing inf|to v|harp adv|about
+	coord|or v|get adj|mad prep|about .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|11|MOD 11|9|JCT 12|4|PUNCT
+%com:	end of passage between Mother and Father
+*MOT:	you said you'd go and get the meat .
+%mor:	pro:per|you v|say&PAST pro:per|you~mod|genmod v|go coord|and v|get
+	det:art|the n|meat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+@End

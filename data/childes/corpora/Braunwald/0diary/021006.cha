@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/c-00011051-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;10.06|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	26-DEC-1973
+*CHI:	I don't know if she's in .
+%mor:	pro:sub|I mod|do~neg|not v|know conj|if pro:sub|she~aux|be&3S
+	adv|in .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+%sit:	161
+*CHI:	no, nobody .
+%mor:	co|no cm|cm pro:indef|nobody .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	161
+*MOT:	okay, you can let in Peanuts .
+%mor:	co|okay cm|cm pro:per|you mod|can part|let&PASTP prep|in
+	n:prop|Peanuts .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%sit:	161
+*CHI:	would it be silly .
+%mor:	mod|will&COND pro:per|it cop|be adj|silly .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%sit:	162
+*CHI:	it would be silly if a wolf came in the house .
+%mor:	pro:per|it mod|will&COND cop|be adj|silly conj|if det:art|a n|wolf
+	v|come&PAST prep|in det:art|the n|house .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+%sit:	162
+*CHI:	Joanna, how (a)bout if a wolf came in the house ?
+%mor:	n:prop|Joanna cm|cm adv:int|how adv|about conj|if det:art|a n|wolf
+	v|come&PAST prep|in det:art|the n|house ?
+%gra:	1|0|INCROOT 2|1|LP 3|5|LINK 4|5|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|1|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%sit:	162
+*CHI:	wanna see my warm jacket that doesn't have a hood ?
+%mor:	mod:aux|wanna v|see det:poss|my adj|warm n|jacket pro:dem|that
+	mod|do&3S~neg|not v|have det:art|a n|hood ?
+%gra:	1|2|AUX 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|CMOD 10|11|DET 11|9|OBJ 12|2|PUNCT
+%sit:	163
+*CHI:	see this one doesn't have a hood .
+%mor:	v|see pro:dem|this pro:indef|one mod|do&3S~neg|not v|have det:art|a
+	n|hood .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%sit:	163
+*CHI:	if a wolf came I might cry if a world [: wolf] [*] came .
+%mor:	conj|if det:art|a n|wolf v|come&PAST pro:sub|I mod|might v|cry
+	conj|if det:art|a n|wolf v|come&PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|CJCT 12|7|PUNCT
+%sit:	164
+*CHI:	Mommy, I wanna watch Jo [: Joanna] get sick and die .
+%mor:	n:prop|Mommy cm|cm pro:sub|I mod:aux|wanna v|watch n:prop|Joanna
+	v|get adj|sick coord|and n|die .
+%gra:	1|5|LINK 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|8|CONJ 10|9|COORD 11|5|PUNCT
+%sit:	165
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	165
+*CHI:	Jo [: Joanna] on tv .
+%mor:	n:prop|Joanna prep|on n|tv .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	165
+*CHI:	you have gum ?
+%mor:	pro:per|you v|have n|gum ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	166
+*CHI:	then you hafta have an operation on your back if you have gum .
+%mor:	adv:tem|then pro:per|you mod:aux|hafta v|have det:art|a n|operation
+	prep|on det:poss|your adj|back conj|if pro:per|you v|have n|gum .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|12|OBJ 14|4|PUNCT
+%sit:	166
+*MOT:	what do you get when you get a shot ?
+%mor:	pro:int|what mod|do pro:per|you v|get conj|when pro:per|you v|get
+	det:art|a n|shot ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+%sit:	167
+*CHI:	an operation and a cake .
+%mor:	det:art|a n|operation coord|and det:art|a n|cake .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+%sit:	167
+*CHI:	this one was sick awhile but he turned out to be better .
+%mor:	pro:dem|this pro:indef|one cop|be&PAST&13S adj|sick adv|awhile
+	conj|but pro:sub|he v|turn-PAST adv|out inf|to cop|be adj|good&CP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|11|INF 11|8|XCOMP 12|11|PRED 13|3|PUNCT
+%sit:	168
+*MOT:	what are those ?
+%mor:	pro:int|what aux|be&PRES pro:dem|those ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%sit:	169
+*CHI:	they're pimples that can't get out .
+%mor:	pro:sub|they~aux|be&PRES n|pimple-PL pro:rel|that mod|can~neg|not
+	v|get adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|7|LINK 5|7|AUX 6|5|NEG 7|3|CMOD 8|7|JCT
+	9|3|PUNCT
+%sit:	169
+@End

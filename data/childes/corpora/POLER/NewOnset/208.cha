@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/c-00041729-1
+@Begin
+@Languages:	eng
+@Participants:	CHI 208 Child, INV Investigator
+@ID:	eng|change_me_later|CHI|6;1.|male|New_Onset||Child|||
+@ID:	eng|change_me_later|INV|||||Investigator|||
+@Media:	208, audio
+*CHI:	once upon a time there was a little boy (.) and frog . 1_9689
+%mor:	adv|once prep|upon det:art|a n|time adv|there cop|be&PAST&13S
+	det:art|a adj|little n|boy coord|and n|frog .
+%gra:	1|6|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|CONJ 11|10|COORD 12|6|PUNCT
+%xnar:	$sg=s1
+%com:	There is nothing to code for syntactic complexity .
+*CHI:	he slept .
+%mor:	pro:sub|he v|sleep&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xnar:	$sg=ie1
+%xcoh:	$sg=ref
+*CHI:	and then the frog was gone . 9689_12745
+%mor:	coord|and adv:tem|then det:art|the n|frog aux|be&PAST&13S
+	part|go&PASTP .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%xnar:	$sg=ie5
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	and then no frog [* was] in his boots . 12745_18224
+%mor:	coord|and adv:tem|then qn|no n|frog prep|in det:poss|his n|boot-PL
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|7|MOD 7|5|POBJ
+	8|1|PUNCT
+%xcoh:	$sg=conj, $sg=lex, $sg=ref
+%com:	Cohesion: and, frog, his, missing a verb somewhere .
+%xnar:	$sg=a1
+*CHI:	and the:n he called outside . 18224_22122
+%mor:	coord|and adv:tem|then pro:sub|he v|call-PAST adv|outside .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xnar:	$sg=a3
+*CHI:	he looked .
+%mor:	pro:sub|he cop|look-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	he called his name . 22122_31395
+%mor:	pro:sub|he v|call-PAST det:poss|his n|name .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%xcoh:	$sg=ref, $sg=ref
+*CHI:	and (.) I don't know that one .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:dem|that
+	pro:indef|one .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%xcoh:	$sg=conj
+*CHI:	the bees got the dog . 31395_49753
+%mor:	det:art|the n|bee-PL v|get&PAST det:art|the n|dog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	he looked through the tree . 49753_55456
+%mor:	pro:sub|he cop|look-PAST prep|through det:art|the n|tree .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	he looked (.) in (.) the owl's tree . 55456_63675
+%mor:	pro:sub|he cop|look-PAST prep|in det:art|the n|owl~poss|s n|tree .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|7|MOD 6|5|POSS 7|3|POBJ 8|2|PUNCT
+%xnar:	$sg=a5
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	he looked under [*] <his> [//] the rocks . 63675_68127
+%mor:	pro:sub|he cop|look-PAST prep|under det:art|the n|rock-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	he looked under the reindeer [*] . 68127_75142
+%mor:	pro:sub|he cop|look-PAST prep|under det:art|the n|reindeer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xcoh:	$sg=ref
+%com:	Another child repeated "reindeer" .
+*CHI:	he jumped [*] off of a cliff . 75142_81153
+%mor:	pro:sub|he v|jump-PAST adv|off prep|of det:art|a n|cliff .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%xcoh:	$sg=ref
+%com:	Another child again said "reindeer" .
+*CHI:	he fell in the water . 81153_85048
+%mor:	pro:sub|he v|fall&PAST prep|in det:art|the n|water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xcoh:	$sg=ref
+*CHI:	he heard his frog . 85048_89210
+%mor:	pro:sub|he v|hear&PAST det:poss|his n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	he found his frogs [* frog] . 89210_95203
+%mor:	pro:sub|he v|find&PAST det:poss|his n|frog-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%xnar:	$sg=g2
+%xcoh:	$sg=ref, $sg=lex
+*CHI:	and now they're home . 95203_103284
+%mor:	coord|and adv|now pro:sub|they~aux|be&PRES adv|home .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xcoh:	$sg=conj, $sg=ref
+*CHI:	the end . 103284_106389
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End
